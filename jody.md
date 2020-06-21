@@ -6,6 +6,8 @@ layout: page
 
 ---
 
+![](assets/images/jody-new.png)
+
 ## University of Kansas Cancer Center
 ### Certified Mastectomy Fitter  [ September 2019 to present]
 - Consult with breast cancer patients on various prosthetic options
