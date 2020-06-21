@@ -7,7 +7,9 @@ permalink: /mike/
 ![]({{ site.baseurl }}/assets/images/mccamon.jpg)
 
 
-[LinkedIn](https://linkedin.com/in/mccamon) ~ [Mail](mailto:mike@mccamon.org) ~ [Twitter](https://twitter.com/mccamon) ~ Facebook 
+[LinkedIn]() ~ [Mail](mailto:mike@mccamon.org) ~ [Twitter](https://twitter.com/mccamon) ~ Facebook 
+
+<a href="https://linkedin.com/in/mccamon"><i class="fas fa-linkedin"></i></a> <a href="https://twitter.com/mccamon"><i class="fas fa-twitter"></i></a><a href="mailto:miike@mccamon.org"><i class="fas fa-envelope"></i></a>
 
 When asked, I like to tell people I never climbed the career ladder, I took the stairs instead. Along the way I have done just about everything a person could do in marketing and management. Whether it’s launching lines of business in foreign markets, working to get competitors to build compatible products, or trekking around the developing world searching for where people get their water, I have been constantly on the move.
 
