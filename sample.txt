@@ -1,0 +1,1 @@
+![]({{ site.baseurl }}/assets/images/mike-head.jpeg){:style="float: right; padding: 10px; height: 150px;"}
