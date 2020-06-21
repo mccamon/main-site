@@ -7,7 +7,7 @@ permalink: /mike/
 ![]({{ site.baseurl }}/assets/images/mccamon.jpg)
 
 
-[LinkedIn](https://linkedin.com/in/mccamon){target="_blank"} | [Mail](mailto:mike@mccamon.org) | [Twitter](https:/twitter.com/mccamon) | Facebook |
+[LinkedIn](https://linkedin.com/in/mccamon) | [Mail](mailto:mike@mccamon.org) | [Twitter](https://twitter.com/mccamon) | Facebook |
 
 When asked, I like to tell people I never climbed the career ladder, I took the stairs instead. Along the way I have done just about everything a person could do in marketing and management. Whether it’s launching lines of business in foreign markets, working to get competitors to build compatible products, or trekking around the developing world searching for where people get their water, I have been constantly on the move.
 
@@ -230,36 +230,3 @@ A system and method for switching between radio systems of a wireless device. Th
 ## Education
 - Associate of Arts, Math & C.S., Wichita State University
 - Bachelor History, University of Kansas
-
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
