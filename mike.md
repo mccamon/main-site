@@ -5,6 +5,7 @@ permalink: /mike/
 ---
 
 ![]({{ site.baseurl }}/assets/images/mccamon.jpg)
+
 When asked, I like to tell people I never climbed the career ladder, I took the stairs instead. Along the way I have done just about everything a person could do in marketing and management. Whether it’s launching lines of business in foreign markets, working to get competitors to build compatible products, or trekking around the developing world searching for where people get their water, I have been constantly on the move.
 
 ### Major career accomplishments
