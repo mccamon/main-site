@@ -8,6 +8,8 @@ layout: page
 
 ![](assets/images/jody-new.png)
 
+My family and health are my most important priorities. For most of my career did accounting until I was diagnosed with breast cancer in 2016. Following treatment I elected to restart my career in healthcare to service patients navigating many of the decision I had to make during my cancer journey. We laughed when our middle child Lucas returned home from his Peace Corps assignment in Rwanda. The first thing he wanted was a Jimmy Johns sandwich!
+
 ## University of Kansas Cancer Center
 ### Certified Mastectomy Fitter  [ September 2019 to present]
 - Consult with breast cancer patients on various prosthetic options
