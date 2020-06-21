@@ -1,8 +1,10 @@
 ---
+
 title: "Welcome to Jekyll"
 layout: post
 category: mike
 author: mike
+image: 
 
 ---
 
