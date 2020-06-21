@@ -3,8 +3,7 @@ layout: page
 title: Mike McCamon
 ---
 
-![]({{ site.baseurl }}/assets/images/mike-head.jpeg){:style="float: right; padding: 10px; height: 150px;"}
-
+![]({{ site.baseurl }}/assets/images/mccamon.jpg)
 When asked, I like to tell people I never climbed the career ladder, I took the stairs instead. Along the way I have done just about everything a person could do in marketing and management. Whether it’s launching lines of business in foreign markets, working to get competitors to build compatible products, or trekking around the developing world searching for where people get their water, I have been constantly on the move.
 
 ### Major career accomplishments
@@ -19,6 +18,7 @@ Over my thirty year career in technology and nonprofit I have directed teams tha
 
 As the former CEO and Executive Director of the Bluetooth SIG, I was responsible for defining a business environment that creatied a $25B industry – one populated with component, system suppliers, end product manufacturers, service industries and iconic brands like Nokia, Sony, Microsoft, Intel, IBM, and Ericsson.
 
+![]({{ site.baseurl }}/assets/images/mike-head.jpeg){:style="float: right; padding: 10px; height: 150px;"}
 What’s my passion? Connecting people through technology. If after reading something here you feel compelled to write, drop me a line at mike (at) mccamon.org. If you’re an old (or perhaps new) friend, give me call during US central time hours at 913.940.2737. Have a great day and thanks for stopping by.
 
 ---
