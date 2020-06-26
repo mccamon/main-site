@@ -1,0 +1,23 @@
+---
+title: "A Different Way to Social Network"
+date: "2012-09-22"
+author: Mike
+---
+
+I can't really trace back to how this came to me the other week but it occurs to me that the next big social network should actually not be a social network at all. Everyone keeps trying to innovate by building new web experiences to compete with Facebook and Twitter. In fact two of the higher profile efforts these days, Path and Medium, are from folks who were early purveyors of those two platforms. But alas, they've got it all wrong.
+
+People don't need a better social network, they need a different way to social network. What's broke? Firstly, whether they know it or not, most want control of their content. They want simple to understand concepts for managing who sees what. They want to have a stable user experience. Ads make some people money, but rarely do we click on them, meaning we get served even more of them in more offensive presentations (really, when I zoom a photo in my timeline?). As brands and corporations, we want an ecosystem that we can build upon, not one that changes with a whim. Bottom line, we want control.
+
+But the one thing that will kill an online experience, is the moment everyone figures out ultimately we are all simply along for the ride to justify a valuation. It is not our social network, it is theirs. Theirs to change the user interface whenever they like. Theirs to change the terms of service whenever they like, and quite publicly in Twitter's case, it is theirs to change an entire partner ecosystem whenever they like. Now of course we all clicked the checkbox and said "okay" but that doesn't prevent us from saying "goodbye" as well.
+
+Where would we all go and what would we all do? If I had the money, talent, and the time I know what I would do. I would take a page from the early days of messaging and invent the next social network.
+
+In 1992 if you weren't a super smart university professor or scientist and you wanted to send electronic mail to people you got an account on AOL or CompuServe. These dialup services took the community concepts of bulletin board systems (BBSs if you're too young) and gave them rich user experiences and simple electronic messaging. Unfortunately it was next to impossible for a good while to share messages with people on another system which at that time also included Prodigy, AppleLink and a few others I've long forgotten. We all lived in wall gardens, or islands. Pick your metaphor.
+
+What changed? We grew up. With the growing momentum for standards like SMTP and POP, companies could build and others could easily install their own mail servers, connect them to the internet, and then people could exchange messages between desperate electronic messaging systems. The citizens of the system grew up and realized a better system was where they were in control, able to define how it worked for them. Some companies set up free web-based email systems like Hotmail and over time more and more email clients became available (along with IMAP) so that today you can use Mail on an iPhone 5 and easily exchange messages with people … still on AOL.
+
+The next social network should be a collection of new standards, not too different from IRC, SMS, SMTP, and IMAP that allow anyone to create new "social network server" applications on which users create accounts to store their content and their social graph. The same or other companies can build new "social network clients" that connect to any and all standards-based social network servers on the web. Our content would live where we want, our user experience would be how we want it -- maybe free ad-supported, but maybe for a few bucks I get out of that jail. My client could connect to any social network I wanted. In fact, maybe like email, I could have a place to host personal social network content and graph, and a completely different place for my work identity.
+
+Contrary to what most people think, standards-based ecosystems spur innovation and this change would be no different. Why couldn't a mobile carrier build a social network server that directly interfaces with an SMS backend? Maybe someone figures out a way to merge the concept of an email server with a social network server? Could someone solve the email spamming problem with simply a social graph? Maybe someone could figure out a commerce system that allows creators to get compensated for the content they create. And in the strangest of ironies, maybe someone creates a new social network client that consumes and creates content for a hosting company like Facebook?
+
+We don't need a better social network, we need a different way to social network.
