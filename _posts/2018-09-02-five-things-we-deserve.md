@@ -4,7 +4,7 @@ date: "2018-09-02"
 author: Mike
 ---
 
-![](images/IMG_0040-200x300.jpg)For the first time in a while I’m on the job market looking for my next opportunity. I’m excited and I have a good deal of flexibility when it comes to compensation and the role but there are a few “really want to haves” wherever I might land over these next few months. So here is my list of "Five Things We All Deserve in Our Next Career."
+![](/assets/images/IMG_0040-200x300.jpg)For the first time in a while I’m on the job market looking for my next opportunity. I’m excited and I have a good deal of flexibility when it comes to compensation and the role but there are a few “really want to haves” wherever I might land over these next few months. So here is my list of "Five Things We All Deserve in Our Next Career."
 
 **Work with a Purpose.** I’m spoiled. I love working on projects that keep me awake at night - projects that stir my passion and heart. Don’t mistake this means I can only work for nonprofits. In fact, many of my for-profit stops had a mission focus in their work: Apple “think different”, Bluetooth “connecting the world without wires”, and even SpiderOak “encrypt everything.” All of these are in addition to Water.org, a true cause, “safe water and the dignity of a toilet for everyone in our lifetime.” Make the mission bigger than one product or the next sale, and your staff will respond.
 
