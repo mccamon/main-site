@@ -23,8 +23,8 @@ minimal: true               # use simpler style
 
 navigation:
   - {file: "index.html", icon: home}
-  - {file: "/mike/index.md"}
-  - {file: "/blog"}
+  - {file: "mike.md" }
+  - {file: "blog.md"}
 
 
 external:                    # see http://fontawesome.com/icons
