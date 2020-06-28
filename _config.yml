@@ -1,6 +1,6 @@
 title: "mccamon.org"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
+author: "Mike McCamon"
+description: "Nothing special going on here"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -29,9 +29,9 @@ navigation:
 
 
 external:                    # see http://fontawesome.com/icons
-#  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-#  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:mike@Mccamon.org"}
+  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""      # see https://disqus.com/
