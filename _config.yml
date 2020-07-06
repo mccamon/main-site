@@ -39,3 +39,4 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jekyll-paginate
