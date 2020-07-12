@@ -3,7 +3,7 @@ author: "Mike McCamon"
 description: "Nothing special going on here"
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
+excerpt_separator: "<!-- more-->"
 date_format: "%B %d, %Y"
 
 # Layout
