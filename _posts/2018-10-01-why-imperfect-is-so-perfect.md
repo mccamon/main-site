@@ -2,7 +2,8 @@
 title: "Why Imperfect is so Perfect"
 date: "2018-10-01"
 image: "https://mccamon.github.io/contrast/assets/images/mccamon-family.png"
-author: Mike
+author: mike
+banner: "America 2020: Clemency for liars, no amnesty for dreamers. #saveTheDream"
 
 ---
 
