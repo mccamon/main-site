@@ -6,6 +6,22 @@ permalink: blog
 
 ---
 
+<ul>
+  {% for posts in posts %}
+    <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></li>
+  {% endfor %}
+</ul>
+
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
+{% for post in paginator.posts %}
+<li><a href="{{post.url | prepend: site.baseurl}}"><h3>{{post.title}}</h3></a></li>
+{% endfor %}
+
+
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
