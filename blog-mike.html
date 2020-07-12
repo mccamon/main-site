@@ -11,7 +11,7 @@ permalink: blog-mike
 {% for post in filtered_posts | sort:"date" | reverse | limit: 5  %}
   <article>
     {% assign post-length =  post.content | number_of_words %}
-    {% assign est-read = (post-length / 200) %}
+    {% assign est-read = post-length | divided_by: 200 %}
     
     {% include meta.html post=post preview=true %}
     {% if post.image != nil %}<img src="{{ post.image }}">{% endif %}
