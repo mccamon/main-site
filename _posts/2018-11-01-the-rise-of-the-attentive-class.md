@@ -3,11 +3,9 @@ title: "The Rise of the Attentive Class"
 date: "2018-11-01"
 author: Mike
 image: "https://owasp.org/assets/images/people/staff_mike.jpg"
+thumb: "https://owasp.org/assets/images/people/staff_mike.jpg"
 
 ---
-
-![](/images/ad27a-1jfh2ihgcmxftr0d6313bqq.png)
-
 How did you find this article? When it comes to the latest news, where did you go to find it?
 
 I’ve done a fair amount of research on the velocity of messages on social media. My goal was to efficiently leverage and in some cases, game sites like Facebook, Twitter, and YouTube, to raise awareness for the international water crisis. Much of what I saw helps explain how machine-curated news and social media have changed what we know and when we know it but has also pushed us into our own black hole of agreeable viewpoints.
