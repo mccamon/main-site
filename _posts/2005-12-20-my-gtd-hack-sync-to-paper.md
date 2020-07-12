@@ -7,6 +7,8 @@ thumb: http://www.mccamon.org/images/actionshot.jpg
 
 A good friend of mine recently encouraged me to give the HipsterPDA a try using the GTD system of organization. I had a few problems to overcome. First was the fact that I like to keep most of my stuff on the computer as opposed to 100% paper. Yet at the same time I don't have my computer with me all the time.
 
+<!-- more -->
+
 What I needed was a way to sync my HipsterPDA with my Mac. So I've been known to goof around with AppleScript (I'm a marketing guy) and I thought it might be a fun project.
 
 So... I enter all my items into iCal. I like to organize my Next Actions by client so it was natural to just assign the Task (iCal's term) into the appropriate client's calendar. Then I created new calendars for @Someday, @Projects, @Waiting for, etc. No appointments here, just items.
