@@ -6,6 +6,8 @@ author: Mike
 
 When trying to solve a problem, exploit a new opportunity, or hire someone for your team, too often we look for the perfect solution. I feel like this is one of our core human resourcing issues these days when faced with a deluge of applicants, bots and filters keep candidate pools manageable. Or when it comes to solving a challenge we get blocked by getting everything right instead of just getting started.
 
+<!-- more -->
+
 Let me make the argument that usually the imperfect option is usually the perfect one.
 
 **Problem Statement.** Figuring out the solution to problems first normally involves defining the problem statement. This is where the team, or yourself, look to exhaustively clarify and articulate the problem, its causes, factors, and then brainstorm potential solutions. The problem is, very, very few of us, if any, can leave our biases to the side and get it right. Most of the time you can get 80-90% right, but rarely 100%, and it might just be the last 20% that makes the entire problem look different. It we can’t fully articulate the problem, our perfect solution won’t be a fit.
