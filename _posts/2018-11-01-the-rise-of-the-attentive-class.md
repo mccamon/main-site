@@ -4,7 +4,7 @@ date: "2018-11-01"
 author: Mike
 ---
 
-![](images/ad27a-1jfh2ihgcmxftr0d6313bqq.png)
+![](/images/ad27a-1jfh2ihgcmxftr0d6313bqq.png)
 
 How did you find this article? When it comes to the latest news, where did you go to find it?
 
