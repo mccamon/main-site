@@ -2,7 +2,7 @@
 title: "The Rise of the Attentive Class"
 date: "2018-11-01"
 author: Mike
-image: "https://owasp.org/assets/images/people/staff_mike.jpg"
+image: "https://mccamon.github.io/contrast/assets/images/mccamon-family.png"
 thumb: "https://owasp.org/assets/images/people/staff_mike.jpg"
 
 ---
