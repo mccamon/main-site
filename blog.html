@@ -6,7 +6,7 @@ permalink: blog
 
 ---
 
-<!-- {% if site.show_excerpts %}
+{% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
   {% include archive.html title="Posts" %}
@@ -14,9 +14,9 @@ permalink: blog
 {% for post in paginator.posts %}
 <li><a href="{{post.url | prepend: site.baseurl}}"><h3>{{post.title}}</h3></a></li>
 {% endfor %}
--->
 
-<!-- pagination -->
+
+<!-- pagination 
 {% for post in paginator.posts %}
 <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 <p class="author">
@@ -27,7 +27,7 @@ permalink: blog
 </div>
 {% endfor %}
 
-<!-- Pagination links -->
+<!-- Pagination links
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
@@ -45,3 +45,4 @@ permalink: blog
     <span class="next ">Next</span>
   {% endif %}
 </div>
+-->
