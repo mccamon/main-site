@@ -12,6 +12,16 @@ permalink: blog
   {% endfor %}
 </ul>
 
+<h2>Filtered posts</h2>
+<ul>
+  {% assign filtered_posts = site.posts | where: 'author', 'mike' %}
+  {% for post in filtered_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+
+
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
