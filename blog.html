@@ -10,7 +10,7 @@ permalink: blog
   <article>
     {% include meta.html post=post preview=true %}
     {% if post.image != nil %}
-      <span style="float:right">{{ post.image }}</span>
+      <span style="float:right"><img src="{{ post.image }}" width="200"></span>
     {% endif %}
     {{ post.excerpt }}
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
