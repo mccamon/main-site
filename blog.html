@@ -18,7 +18,7 @@ permalink: blog
 <ul>
   {% for post in site.posts | sort:"date" | reverse  %}
     {% if forloop.index > 5 %}   <!-- skip the first five posts -->
-      <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a>, <span style= "color:#b8b8b8"> - {{ post.author }} {{ post.date |  date: '%b %Y'  }}</span></li>
+      <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a> - <span style= "color:#b8b8b8">{{ post.author }}, {{ post.date |  date: '%b %Y'  }}</span></li>
     {% endif %}
    {% endfor %}
 </ul>
