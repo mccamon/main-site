@@ -16,7 +16,7 @@ permalink: blog
   </article>
 {% endfor %}
 
-<h1>Older Posts</h1>
+<h1>Older Posts...</h1>
 <ul>
   {% for post in site.posts | sort:"date" | reverse  %}
     {% if forloop.index > 5 %}   <!-- skip the first five posts -->
