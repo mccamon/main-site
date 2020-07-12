@@ -5,7 +5,7 @@ title: Blog
 permalink: blog
 
 ---
-<h1>Most Recent...</h1>
+Below are the five most recent blog posts. Go to the <a href="#index">index</a>.
 
 {% for post in site.posts | sort:"date" | reverse | limit: 5  %}
   <article>
@@ -15,6 +15,7 @@ permalink: blog
   </article>
 {% endfor %}
 
+<a name="index">
 <h1>Blog Index</h1>
 <ul>
   {% for post in site.posts | sort:"date" | reverse  %}
