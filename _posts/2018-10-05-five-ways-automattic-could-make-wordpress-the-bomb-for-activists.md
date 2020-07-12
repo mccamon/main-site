@@ -4,9 +4,9 @@ date: "2018-10-05"
 author: Mike
 ---
 
-Every movement needs an online presence. A place to tell their story, their action plan, and how to connect and organize around the cause. Historically, the online world provided a safe haven to do all this, and recruit new supporters to your work.
+Every movement needs an online presence. A place to tell their story, their action plan, and how to connect and organize around the cause. Historically, the online world provided a safe haven to do all this, and recruit new supporters to your work. **But that all changed.** Activists are not technologists and without changes we’re in deep trouble.
 
-**But that all changed.** Activists are not technologists and without changes we’re in deep trouble.
+<!-- more -->
 
 Generally what we all do online in the US is governed and protected by the First Amendment. Just a few weeks ago the US Justice Department requested Dreamhost, an internet website hosting company, release “all records and information” relating to the site disruptj20.org and more specifically the IP addresses of those who visited the site. For those less technical, that would be like the Justice Department requiring Target to supply the CC# of every person who walked into the store even if they didn’t buy anything. At its most innocent, it’s a witch hunt. At its more sinister, its something out of the sci-fi movie Minority Report where police can arrest you before you even commit a crime.
 
