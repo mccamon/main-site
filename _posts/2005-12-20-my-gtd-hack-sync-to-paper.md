@@ -2,9 +2,10 @@
 title: "my gtd hack: sync to paper"
 date: "2005-12-20"
 author: mike
+thumb: http://www.mccamon.org/images/actionshot.jpg
 ---
 
-![](http://www.mccamon.org/images/actionshot.jpg)A good friend of mine recently encouraged me to give the HipsterPDA a try using the GTD system of organization. I had a few problems to overcome. First was the fact that I like to keep most of my stuff on the computer as opposed to 100% paper. Yet at the same time I don't have my computer with me all the time.
+A good friend of mine recently encouraged me to give the HipsterPDA a try using the GTD system of organization. I had a few problems to overcome. First was the fact that I like to keep most of my stuff on the computer as opposed to 100% paper. Yet at the same time I don't have my computer with me all the time.
 
 What I needed was a way to sync my HipsterPDA with my Mac. So I've been known to goof around with AppleScript (I'm a marketing guy) and I thought it might be a fun project.
 
