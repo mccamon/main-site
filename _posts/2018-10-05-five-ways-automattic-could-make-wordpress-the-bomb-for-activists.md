@@ -1,6 +1,7 @@
 ---
 title: "Five Ways Automattic Could Make WordPress the Bomb for Activists"
 date: "2018-10-05"
+thumb: "https://owasp.org/assets/images/people/staff_mike.jpg"
 author: Mike
 ---
 
