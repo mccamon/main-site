@@ -4,9 +4,10 @@ date: "2018-09-01"
 author: Mike
 ---
 
-For the better part of my life I have had great success moving onto the next (often higher) role on my career path. I tell folks it has unfolded like a three act play - the problem is I don’t like the plot twist of the third act. But more on that later.
+For the better part of my life I have had great success moving onto the next (often higher) role on my career path. I tell folks it has unfolded like a three act play - the problem is I don’t like the plot twist of the third act. But more on that later. Nine months and five days ago the company eliminated my role. It was part of a larger downsizing (about 40% of staff ultimately including the founder) as the startup struggled to stay afloat. That’s fine. We did some great things and made some mistakes but in hindsight it’s hard to grow a technology company without new products. The “campground” was cleaner than I found it, so I sleep at night.
 
-Nine months and five days ago the company eliminated my role. It was part of a larger downsizing (about 40% of staff ultimately including the founder) as the startup struggled to stay afloat. That’s fine. We did some great things and made some mistakes but in hindsight it’s hard to grow a technology company without new products. The “campground” was cleaner than I found it, so I sleep at night.
+
+<!-- more -->
 
 I figured that the transition would be pretty easy, hell, I have like 30+ years of experience and much of it very interesting and unique. I’ve been filling time with some pro bono and paid consulting, networking, and even more networking, applying for roles online, then hunting down hiring managers and emailing (and calling) them directly - repeatedly. But the results of my “job search” work product have been, shall we say, unfulfilling.
 
