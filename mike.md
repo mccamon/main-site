@@ -7,7 +7,7 @@ permalink: /mike/
 ![]({{ site.baseurl }}/assets/images/mccamon.jpg)
 
 
-[LinkedIn](https://linkedin.com/in/mccamon) ~ [Mail](mailto:mike@mccamon.org) ~ [Twitter](https://twitter.com/mccamon) ~ Facebook 
+[LinkedIn](https://linkedin.com/in/mccamon) ~ [Mail](mailto:mike@mccamon.org) ~ [Twitter](https://twitter.com/mccamon) ~ Facebook ~ <a href="{{ site.baseurl }}/blog">Blog</a>
 
 <a href="https://linkedin.com/in/mccamon"><i class="fas fa-linkedin"></i></a> <a href="https://twitter.com/mccamon"><i class="fas fa-twitter"></i></a><a href="mailto:miike@mccamon.org"><i class="fas fa-envelope"></i></a>
 
