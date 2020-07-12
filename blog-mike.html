@@ -7,11 +7,12 @@ permalink: blog-mike
 ---
 
 {% assign filtered_posts = site.posts | where: 'author', 'mike' %}
+
 {% for post in filtered_posts | sort:"date" | reverse | limit: 5  %}
   <article>
     {% include meta.html post=post preview=true %}
     {% if post.image != nil %}<img src="{{ post.image }}">{% endif %}
-    {% if post.thumb != nil %}<span style="float:right; padding-left:10px;"><img src="{{ post.thumb }}" width="150"></span>{% endif %}
+    {% if post.thumb != nil %}<span style="float:right; padding-left:10px;"><img src="{{ post.thumb }}" width="200"></span>{% endif %}
     {{ post.excerpt }}
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
   </article>
@@ -19,7 +20,7 @@ permalink: blog-mike
 
 <h1>Older Posts...</h1>
 <ul>
-  {% assign filtered_posts = site.posts | where: 'author', 'mike' %}
+<!--  {% assign filtered_posts = site.posts | where: 'author', 'mike' %} -->
   {% for post in filtered_posts | sort:"date" | reverse  %}
     {% if forloop.index > 5 %}   <!-- skip the first five posts -->
       <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a> - <span style= "color:#b8b8b8">{{ post.author }}, {{ post.date |  date: '%b %Y'  }}</span></li>
