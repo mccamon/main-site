@@ -1,7 +1,9 @@
 ---
 title: "Why Imperfect is so Perfect"
 date: "2018-10-01"
+image: "https://mccamon.github.io/contrast/assets/images/mccamon-family.png"
 author: Mike
+
 ---
 
 When trying to solve a problem, exploit a new opportunity, or hire someone for your team, too often we look for the perfect solution. I feel like this is one of our core human resourcing issues these days when faced with a deluge of applicants, bots and filters keep candidate pools manageable. Or when it comes to solving a challenge we get blocked by getting everything right instead of just getting started.
