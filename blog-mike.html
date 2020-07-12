@@ -6,7 +6,7 @@ permalink: blog-mike
 
 ---
 
-{% assign filtered_posts = site.posts | where: {{ 'author' | downcase }}, 'mike' %}
+{% assign filtered_posts = site.posts | where: 'author', 'mike' %}
 {% for post in filtered_posts | sort:"date" | reverse | limit: 5  %}
   <article>
     {% include meta.html post=post preview=true %}
