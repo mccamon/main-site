@@ -5,9 +5,16 @@ title: Blog
 permalink: blog
 
 ---
-
+<h3>Most Recent...</h3>
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts | sort:"date" | reverse | limit: 5  %}
+  <li><a href="{{post.url | prepend: site.baseurl}}"><h3>{{post.title}}</h3></a></li>
+{% endfor %}
+</ul>
+
+<h3>Blog Index</h3>
+<ul>
+  {% for post in site.posts | sort:"date" | reverse | limit: 5  %}
     <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a>, <span style= "color:##b8b8b8">{{ post.date |  date: '%b, %Y'  }}</span></li>
   {% endfor %}
 </ul>
@@ -24,15 +31,17 @@ permalink: blog
 -->
 
 
-{% if site.show_excerpts %}
+<!-- {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
   {% include archive.html title="Posts" %}
 {% endif %}
-{% for post in paginator.posts %}
-<li><a href="{{post.url | prepend: site.baseurl}}"><h3>{{post.title}}</h3></a></li>
+-->
+<ul>
+  {% for post in site.posts | sort:"date" | reverse | limit: 5  %}
+  <li><a href="{{post.url | prepend: site.baseurl}}"><h3>{{post.title}}</h3></a></li>
 {% endfor %}
-
+</ul>
 
 {% if site.show_excerpts %}
   {% include home.html %}
