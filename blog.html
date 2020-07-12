@@ -8,7 +8,7 @@ permalink: blog
 
 <ul>
   {% for post in site.posts %}
-    <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a>, <span style= "color:grey">{{ post.date |  date: '%B, %Y'  }}</span></li>
+    <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a>, <span style= "color:#dbdbdb">{{ post.date |  date: '%b, %Y'  }}</span></li>
   {% endfor %}
 </ul>
 
