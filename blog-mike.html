@@ -19,8 +19,9 @@ permalink: blog-mike
     {% if post.image != nil %}<img src="{{ post.image }}">{% endif %}
     {% if post.thumb != nil %}<span style="float:right; padding-left:10px;"><img src="{{ post.thumb }}" width="200"></span>{% endif %}
     {{ post.excerpt }}
-    <br><span style= "color:#b8b8b8">Estimated Reading time: {{est-read | round }} Minutes</span>
-    <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div><span style= "color:#b8b8b8">Estimated Reading time: {{est-read | round }} Minutes</span>
+    <div class="more"><a href="{{ post.url | relative_url }}">read more</a>
+      <span style= "color:#b8b8b8">Est reading time: {{est-read | round }} Mins</span>
+    </div>
   </article>
 {% endfor %}
 
