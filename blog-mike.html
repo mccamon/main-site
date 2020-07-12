@@ -13,7 +13,7 @@ permalink: blog-mike
     {% include meta.html post=post preview=true %}
     {% if post.image != nil %}<img src="{{ post.image }}">{% endif %}
     {% if post.thumb != nil %}<span style="float:right; padding-left:10px;"><img src="{{ post.thumb }}" width="200"></span>{% endif %}
-    {{ post.excerpt }}
+    {{ post.excerpt }} <br>Number of words: {{ post.content | number_of_words }}
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
   </article>
 {% endfor %}
