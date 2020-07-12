@@ -10,13 +10,16 @@ permalink: blog-mike
 
 {% for post in filtered_posts | sort:"date" | reverse | limit: 5  %}
   <article>
+    <!-- Calculate Reading time -->
     {% assign post-length =  post.content | number_of_words %}
     {% assign est-read = post-length | divided_by: 200 %}
     
+    <!-- Render Post -->
     {% include meta.html post=post preview=true %}
     {% if post.image != nil %}<img src="{{ post.image }}">{% endif %}
     {% if post.thumb != nil %}<span style="float:right; padding-left:10px;"><img src="{{ post.thumb }}" width="200"></span>{% endif %}
-    {{ post.excerpt }} <br>Number of words: {{ post.content | number_of_words }}, Reading time:  {{est-read | round }}
+    {{ post.excerpt }}
+    <br>Number of words: {{ post.content | number_of_words }}, Reading time:  {{est-read | round }}
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
   </article>
 {% endfor %}
