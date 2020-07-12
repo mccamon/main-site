@@ -45,6 +45,8 @@ Virtual enables associations, standards organizations, consortia, startup advoca
 - Created and implemented organizational wide Operating and Project Planning
 - Led migration and launch of 25M annual visitor website to Github Pages
 
+---
+
 ## Candidate for U.S. Congress Kansas 3rd District
 February 2018 to August 2019
 
