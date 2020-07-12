@@ -19,6 +19,7 @@ minimal: true               # use simpler style
 
 collectons:
   authors:
+    output: true
 
 # Menu
 navigation:
