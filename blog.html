@@ -11,7 +11,7 @@ permalink: blog
     {% include meta.html post=post preview=true %}
     {% if post.image != nil %}<img src="{{ post.image }}">{% endif %}
     {{ post.excerpt }}
-    {% if post.thumb != nil %}<span style="float:right; padding-left:10px;"><img src="{{ post.image }}" width="1250"></span>{% endif %}
+    {% if post.thumb != nil %}<span style="float:right; padding-left:10px;"><img src="{{ post.image }}" width="150"></span>{% endif %}
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
   </article>
 {% endfor %}
