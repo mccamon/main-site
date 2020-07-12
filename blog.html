@@ -1,11 +1,10 @@
 ---
 
 layout: default
-title: Blog
+title: Mike's Blog
 permalink: blog
 
 ---
-Below are the five most recent blog posts. Go to the <a href="#index">index</a>.
 
 {% for post in site.posts | sort:"date" | reverse | limit: 5  %}
   <article>
@@ -18,9 +17,12 @@ Below are the five most recent blog posts. Go to the <a href="#index">index</a>.
 <h1>Blog Index</h1>
 <ul>
   {% for post in site.posts | sort:"date" | reverse  %}
-    <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a>, <span style= "color:##b8b8b8"> by {{ post.author }} {{ post.date |  date: '%b, %Y'  }}</span></li>
+    {% if forloop.index > 5 %}   <!-- skip the first five posts -->
+      <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a>, <span style= "color:##b8b8b8"> by {{ post.author }} {{ post.date |  date: '%b, %Y'  }}</span></li>
+    {% endif %}
   {% endfor %}
 </ul>
+
 
 <!--
 
