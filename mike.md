@@ -54,6 +54,8 @@ February 2018 to August 2019
 - Hyperactive social media advocate of #aroundTheThird including Facebook Live.
 - Hosted over 210 meetings with local leaders in the District.
 
+---
+
 ## SpiderOak
 November 2014 to January 2017 [Kansas City, MO]
 
@@ -67,6 +69,8 @@ Best known for its personal backup solution, SpiderOak advocates for and builds 
 - Frequent thought leadership through writing, press/analyst briefings, and speaking engagements.
 - Delivered double digit growth while launching new products in new problem categories.
 - Instrumental in closing $4.25M Series B Round institutional and private equity funding.
+
+---
 
 ## Water.org
 February 2009 to October 2014 [Kansas City, MO]
@@ -83,6 +87,8 @@ Co-founded by Matt Damon and Gary White, Water.org pioneers innovative, communit
 - Led cause marketing efforts partnering with some of the largest consumer and online brands.
 - Defined, managed, and produced the creative print, online, audio, and video assets.
 - Design and project manage technology initiatives for Water.org and partner organizations including a beneficiary facing real-time SMS water quality reporting system for Haiti.
+
+---
 
 ## Limestone Partners LLC
 August 2004 to present [Overland Park, KS]
@@ -102,6 +108,8 @@ Offering marketing, trade association and program management consulting to tech 
 - Developed and launched online blog in standards market to increase voice of authority for the IEEE-ISTO.
 - Designed and led development of various marketing collateral tools including direct mail, email and press releases.
 
+---
+
 ## Sprint/Embarq Communications
 January 2006 to January 2007 [overland park, ks]
 
@@ -111,6 +119,8 @@ Formerly Sprint”s landline operation, Embarq is one of the country”s largest
 - Directing development and launch plan for consumer fixed mobile convergent devices and services.
 - Manage all wireless Product Development for the company from idea conception to market launch with a strong focus on products that integrate wireline and wireless services.
 - Serve as a content area expert on personal area wireless technologies and trends in the market and it”s impact on our markets and competitiveness.
+
+---
 
 ## Bluetooth Special Interest Group (SIG)
 April 2002 to August 2004 [San Diego, CA and Overland Park, KS]
@@ -125,6 +135,8 @@ The standard wireless connection for mobile products, Bluetooth technology is ma
 - Oversaw the worldwide trademark strategy and implementation efforts.
 - Developed and managed annual budgets, staffing, operational, marketing, technology and product plans.
 - During first year increased membership approval ratings to over 90%
+
+---
 
 ## Intel Corporation
 March 2000 to April 2002 [Santa Clara & San Diego, CA]
@@ -145,6 +157,8 @@ As the largest manufacturer of microprocessors in the world, Intel through it’
 - Developed and managed product roadmap and brand identity of retail and embedded products.
 - Directed research efforts into new product opportunities, customer behaviors and preferences.
 - Forecasted demand and product line profitability
+
+---
 
 ## Iomega Corporation
 September 1997 to March 2000 [San Diego, CA and Geneva, Switzerland]
@@ -167,6 +181,8 @@ Iomega was the world leader in removable storage products for the PC industry. A
 - Created marketing strategies, pricing, positioning and feature set requirements for future products.
 - Forecasted demand and product line profitability.
 
+---
+
 ## Visual Components (acquired by Sybase)
 October 1995 to September 1997 [overland park, ks]
 
@@ -180,6 +196,8 @@ During the mid-90s there was growing interest in component based software for th
 - Direct efforts of product management, marketing, press relations, marketing programs and creative staffs.
 - Lead contact and negotiator for licensed technologies.
 - Corporate spokesman for industry press, trade and customer events
+
+---
 
 ## Apple Computer
 November 1989 to October 1995 [Overland Park, KS & Dallas, TX]
@@ -209,6 +227,8 @@ Apple remains the icon of innovation in the technology industry. Veterans normal
 - Act as the technical resource for a sales team that serves a set of target accounts.
 - Develop presentations and prototype applications.
 
+---
+
 ## Informix
 january 1988 to november 1989 [lenexa, ks]
 
@@ -224,10 +244,14 @@ Back in the day of database wars, Informix decided to merge with Innovative Soft
 - Provided technical support for dealers, consultants, and end-users
 - Supplied on-site custom programming, installation, and training for special projects.
 
+---
+
 ## Patent
 System and method for managing radio systems, United States 8,223,677, Issued July 17, 2012
 
 A system and method for switching between radio systems of a wireless device. The wireless device may include a first radio, a second radio, and a third radio. The radios may be configured to communicate using a first, a second, and a third communications protocol, respectively. Circuitry in communication with the radios may be configured to activate the first radio when a signal using the second communications protocol is not detected and to switch activation of the first radio to the third radio in response to detecting a signal using the second communications protocol.
+
+---
 
 ## Education
 - Associate of Arts, Math & C.S., Wichita State University
