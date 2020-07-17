@@ -11,6 +11,13 @@ I’ve done a fair amount of research on the velocity of messages on social medi
 
 <!-- more -->
 
+![an image](/_posts/images/AOL.thumbnail.jpg)
+![an image]({{ site.baseurl }}/_posts/images/AOL.thumbnail.jpg)
+![an image](_posts/images/AOL.thumbnail.jpg)
+![an image](/images/AOL.thumbnail.jpg)
+![an image](images/AOL.thumbnail.jpg)
+
+
 **Walter is Gone.** While certainly imperfect in his perspective and inclusiveness, when I was a kid Walter Cronkite curated the news. Okay not all the news, but metaphorically. Back then our news was discovered, researched, and reported by career professional journalists like Walter Cronkite. A good deal of news went unreported due to network news cycles and personal biases, but at least there was a professional filter. Today, most (all) online news is curated by algorithms which serve stories based on how many people have already clicked on them. If lots of people click, that news goes to the top of the feed. Is it fake news? Hell, the machines don’t care — they are just counting clicks. On platforms like Facebook, the most clicked posts show up in more of your friends’ feed. It’s technically democratic but certainly distorted in some very bad ways.
 
 > Machine-curated news and social media have created a seismic shift in how we know what we know.
