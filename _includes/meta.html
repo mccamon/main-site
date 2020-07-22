@@ -7,4 +7,7 @@
   <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: date_format }}
     {% if include.post.author != nill %}, by {{ include.post.author }}{% endif %}
   </time>
+  {% if include.hero != nil %}<img src="{{ include.hero }}">{% endif %}
+ <!--     {% if post.thumb != nil %}<span style="float:right; padding-left:10px;"><img src="{{ post.thumb }}" width="200"></span>{% endif %} -->
+  
 </header>
