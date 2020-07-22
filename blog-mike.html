@@ -19,7 +19,7 @@ permalink: blog-mike
      <span style="font-size:3em; line-spacing:.9em">{{ post.banner }}</span>
     {% else %}
       {% include meta.html post=post preview=true %}
-      {% if post.image != nil %}<img src="{{ post.image }}">{% endif %}
+     <!-- {% if post.image != nil %}<img src="{{ post.image }}">{% endif %} -->
       {% if post.thumb != nil %}<span style="float:right; padding-left:10px;"><img src="{{ post.thumb }}" width="200"></span>{% endif %}
       {{ post.excerpt }}
       <div class="more"><a href="{{ post.url | relative_url }}">read more</a>
