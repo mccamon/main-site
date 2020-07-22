@@ -1,8 +1,10 @@
 ---
+
 title: "Chapter Next"
 date: "2009-02-05"
 author: Mike
 thumb: /assets/post-images/river.jpg
+
 ---
 
 As many of you know, for the past 20 or so years I've been enjoying an nice career in the technology industry. Nice stops at the Bluetooth SIG, Apple, Intel, Iomega, iModules and few other startups along the way. It has been a fantastic time and I have been fortunate to have a knack for something that also pays relatively well.
