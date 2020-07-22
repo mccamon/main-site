@@ -3,7 +3,7 @@
 title: "Six everyday technologies that would change our Democracy"
 date: "2018-06-07"
 author: Mike
-image: "assets/post-images/12d9d-1ewkdc0cizbaa34cjhll3-a-300x200.jpeg"
+image: "12d9d-1ewkdc0cizbaa34cjhll3-a-300x200.jpeg"
 
 ---
 
