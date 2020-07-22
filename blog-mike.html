@@ -16,7 +16,7 @@ permalink: blog-mike
     
     <!-- Render Post -->
     {% if post.banner != nill %}
-     <span font-size="3em">{{ post.banner }}</span>
+     <span style="font-size:3em">{{ post.banner }}</span>
     {% else %}
       {% include meta.html post=post preview=true %}
       {% if post.image != nil %}<img src="{{ post.image }}">{% endif %}
