@@ -7,11 +7,11 @@ title: Home
 
 Lucas, Lina, Victoria, Logan, <a href="{{ site.baseurl }}/mike">Mike</a>, <a href="{{ site.baseurl }}/jody">Jody</a>
 
-<h3>Welcome to mccamon.org</h3>
+<h2>Welcome to mccamon.org</h2>
 
 <p>Mike is a long-time tech sector professional and built this site with GitHub pages. Click on a name above to view more information about each of us. If the name isn't linked, there is no content. Mike occasionally writes on his <a href="{{ site.baseurl }}/blog-mike">blog</a>. We are not really sure why Logan is looking to his right while the rest of us are looking at the camera.</p>
 
-<h1>Recent Blog Posts...</h1>
+<h2>Recent Blog Posts...</h2>
 <ul>
   {% for post in site.posts | sort:"date" | reverse  %}
     <!-- Calculate Reading time -->
@@ -19,7 +19,7 @@ Lucas, Lina, Victoria, Logan, <a href="{{ site.baseurl }}/mike">Mike</a>, <a hre
     {% assign est-read = post-length | divided_by: 200 %}
 
     {% if forloop.index <6 %}   <!-- get only first five posts -->
-      <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a> - <span style= "color:#b8b8b8">{{ post.author }}, {{ post.date |  date: '%b %Y'  }},
+      <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a> by <span style= "color:#b8b8b8">{{ post.author }}, {{ post.date |  date: '%b %Y'  }},
       {% if est-read > 3 %}{{est-read | round }} min read{% else %}<2 min read{% endif %}</span></li>
     {% endif %}
   {% endfor %}
