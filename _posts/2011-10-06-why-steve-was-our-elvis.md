@@ -2,6 +2,8 @@
 title: "Why Steve was our Elvis"
 date: "2011-10-06"
 author: Mike
+image: /assets/post-image/elvis.jpg
+
 ---
 
 Thousands of more respectful and talented writers will pen an eulogy for Steve Jobs. Many will recall his personality, belief system, impact on technology, and his business style and successes. Hopefully I’ll stand alone in comparing him to The King.
