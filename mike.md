@@ -258,3 +258,5 @@ A system and method for switching between radio systems of a wireless device. Th
 ## Education
 - Associate of Arts, Math & C.S., Wichita State University
 - Bachelor History, University of Kansas
+
+<span style="font-size: .8em"><a href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">Edit</a></span>
