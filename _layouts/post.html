@@ -3,7 +3,12 @@ layout: default
 ---
 
 <article>
-  {% include meta.html post=page %}
+  
+  {% capture hero %}{{ post.image }}{% endcapture %}
+  {% capture thumbnail %}{{ post.thumb }}{% endcapture %}
+ 
+  
+  {% include meta.html post=page hero thumbnail %}
     {% if post.banner != nill %}
      <span font-size="3em">{{ post.banner }}</span>
     {% else %}
