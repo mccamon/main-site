@@ -2,7 +2,7 @@
 title: "Why Steve was our Elvis"
 date: "2011-10-06"
 author: Mike
-image: /assets/post-image/elvis.jpg
+image: /assets/post-images/elvis.jpg
 
 ---
 
