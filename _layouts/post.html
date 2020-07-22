@@ -4,11 +4,11 @@ layout: default
 
 <article>
   
-  {% capture hero %}{{ post.image }}{% endcapture %}
-  {% capture thumbnail %}{{ post.thumb }}{% endcapture %}
+  {% capture hero-var %}{{ post.image }}{% endcapture %}
+  {% capture thumbnail-var %}{{ post.thumb }}{% endcapture %}
  
   
-  {% include meta.html post=page hero thumbnail %}
+  {% include meta.html post=page hero=hero-var thumbnail=thumbnail-var %}
     {% if post.banner != nill %}
      <span font-size="3em">{{ post.banner }}</span>
     {% else %}
