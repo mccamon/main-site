@@ -7,7 +7,7 @@ image: /assets/post-images/12d9d-1ewkdc0cizbaa34cjhll3-a-300x200.jpeg
 
 Like many of you, I too have contacted my members of Congress with an opinion or concern about pending legislation or topics that matter to me. You know the drill: write a letter, or more common of late, make a phone call. During the first few months of this year when I called, the most likely result was a busy signal or a full voice mailbox. **We deserve better.**
 
-<!-- More -->
+<!-- more -->
 
 Why is it acceptable that it is easier for my teenager to like a stranger’s funny cat video on YouTube when she’s riding along with me in the car, than for us to participate in our democracy sitting in our own homes? How is it I can know my Uber/Lyft driver will arrive in two minutes, but I have no earthly idea what my Representative is doing today, this week, last month — ever?
 
