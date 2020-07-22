@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the Attentive Class"
 date: "2018-11-01"
-author: mike
+author: Mike
 
 ---
 How did you find this article? When it comes to the latest news, where did you go to find it?
