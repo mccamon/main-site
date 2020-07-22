@@ -19,8 +19,8 @@ permalink: blog-mike
      <span font-size="3em">{{ post.banner }}</span>
     {% else %}
       {% include meta.html post=post preview=true %}
-      {% if post.image != nil %}<img src="{{ post.image }}">{% endif %}
-      {% if post.thumb != nil %}<span style="float:right; padding-left:10px;"><img src="{{ post.thumb }}" width="200"></span>{% endif %}
+      {% if post.image != nil %}<img src="/assets/post-images/{{ post.image }}">{% endif %}
+      {% if post.thumb != nil %}<span style="float:right; padding-left:10px;"><img src="assets/post-images/{{ post.thumb }}" width="200"></span>{% endif %}
       {{ post.excerpt }}
       <div class="more"><a href="{{ post.url | relative_url }}">read more</a>
         <span style= "color:#b8b8b8">{% if est-read > 3 %}{{est-read | round }} min read{% else %}<2 min read{% endif %}</span>
