@@ -4,13 +4,18 @@ layout: default
 
 <article>
   {% include meta.html post=page %}
-  {% if page.image != nil %}<img src="{{ page.image }}">{% endif %}
-  {{ content }}
-  {% if page.comments != false and site.comments.isso or site.comments.disqus %}
-    <hr>
-    {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %}
-    {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>{% endif %}
-    <noscript>Please enable JavaScript to view comments.</noscript>
+    {% if post.banner != nill %}
+     <span font-size="3em">{{ post.banner }}</span>
+    {% else %}
+      {% if post.image != nil %}<img src="{{ post.image }}">{% endif %}
+      {% if post.thumb != nil %}<span style="float:right; padding-left:10px;"><img src="{{ post.thumb }}" width="200"></span>{% endif %} 
+      {{ content }}
+      {% if page.comments != false and site.comments.isso or site.comments.disqus %}
+        <hr>
+        {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %}
+        {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>{% endif %}
+        <noscript>Please enable JavaScript to view comments.</noscript>
+      {% endif %}
   {% endif %}
 </article>
 
