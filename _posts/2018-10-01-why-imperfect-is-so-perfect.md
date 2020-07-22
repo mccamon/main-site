@@ -2,7 +2,7 @@
 title: "Why Imperfect is so Perfect"
 date: "2018-10-01"
 author: Mike
-image: /assets/post-image/imperfect-fruit.jpg
+image: /assets/post-images/imperfect-fruit.jpg
 
 ---
 
