@@ -3,7 +3,7 @@
 title: "Chapter Next"
 date: "2009-02-05"
 author: Mike
-thumb: /assets/post-images/river.jpg
+thumb: "/assets/post-images/river.jpg"
 
 ---
 
