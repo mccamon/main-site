@@ -15,10 +15,10 @@ permalink: blog-mike
     {% assign est-read = post-length | divided_by: 200 %}
     
     <!-- Render Post -->
-      {% include meta.html post=post preview=true %}
     {% if post.banner != nill %}
-     <span style="font-size:3em; line-spacing:.5em">{{ post.banner }}</span>
+     <span style="font-size:3em; line-spacing:.9em">{{ post.banner }}</span>
     {% else %}
+      {% include meta.html post=post preview=true %}
       {% if post.image != nil %}<img src="{{ post.image }}">{% endif %}
       {% if post.thumb != nil %}<span style="float:right; padding-left:10px;"><img src="{{ post.thumb }}" width="200"></span>{% endif %}
       {{ post.excerpt }}
