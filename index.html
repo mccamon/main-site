@@ -18,8 +18,8 @@ Lucas, Lina, Victoria, Logan, <a href="{{ site.baseurl }}/mike">Mike</a>, <a hre
     {% assign post-length =  post.content | number_of_words %}
     {% assign est-read = post-length | divided_by: 200 %}
 
-    {% if forloop.index <6 %}   <!-- get only first five posts -->
-      <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a> by <span style= "color:#b8b8b8">{{ post.author }}, {{ post.date |  date: '%b %Y'  }},
+    {% if forloop.index < 11 %}   <!-- get only first five posts -->
+      <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a><span style= "color:#b8b8b8"> by {{ post.author }}, {{ post.date |  date: '%b %Y'  }},
       {% if est-read > 3 %}{{est-read | round }} min read{% else %}<2 min read{% endif %}</span></li>
     {% endif %}
   {% endfor %}
