@@ -1,7 +1,10 @@
 ---
+
 title: "Five Ways Automattic Could Make WordPress the Bomb for Activists"
 date: "2018-10-05"
 author: Mike
+image: /assests/post-images/protest.jpg
+
 ---
 
 Every movement needs an online presence. A place to tell their story, their action plan, and how to connect and organize around the cause. Historically, the online world provided a safe haven to do all this, and recruit new supporters to your work. **But that all changed.** Activists are not technologists and without changes we’re in deep trouble.
