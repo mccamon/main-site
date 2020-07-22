@@ -1,10 +1,12 @@
 ---
+
 title: "Six everyday technologies that would change our Democracy"
 date: "2018-06-07"
 author: Mike
+image: "assets/post-images/12d9d-1ewkdc0cizbaa34cjhll3-a-300x200.jpeg"
+
 ---
 
-![](assets/post-images/12d9d-1ewkdc0cizbaa34cjhll3-a-300x200.jpeg)
 
 Like many of you, I too have contacted my members of Congress with an opinion or concern about pending legislation or topics that matter to me. You know the drill: write a letter, or more common of late, make a phone call. During the first few months of this year when I called, the most likely result was a busy signal or a full voice mailbox.
 
