@@ -2,9 +2,10 @@
 title: "Incredible India"
 date: "2009-07-18"
 author: Mike
+thumb: /assets/post-images/mm_women_communitypoint1.jpg
 ---
 
-![mm_women_communitypoint1](images/mm_women_communitypoint1.jpg "mm_women_communitypoint1")The local tourism slogan here is “Incredible India”. It would seem to do a fair job of helping to inspire travelers to explore the deep richness and variety of Indian history and culture. While it is not tourism per se that brings me to India, it is to sample in the incredibleness that is India.
+The local tourism slogan here is “Incredible India”. It would seem to do a fair job of helping to inspire travelers to explore the deep richness and variety of Indian history and culture. While it is not tourism per se that brings me to India, it is to sample in the incredibleness that is India.
 
 Home to over a billion persons, India is one of the more densely populated countries in the world to still maintain a traditional rural and bustling urban life. I am here to learn about the water crisis. I suppose most westerners would be surprised by this, since many consider the water crisis only an African issue. It is profoundly not. In fact nearly two-thirds of those who lack access to safe water live in south Asia. And to my surprise, the number of Indians who lack access to improved sanitation is nearing double the number of people on the entire continent of Africa that lack these basic services.
 

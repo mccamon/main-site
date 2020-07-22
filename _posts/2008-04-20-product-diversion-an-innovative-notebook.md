@@ -2,9 +2,10 @@
 title: "Product Diversion - An Innovative Notebook"
 date: "2008-04-20"
 author: Mike
+thumb: /assets/post-images/duo.jpg
 ---
 
-![](images/duo.jpg)While I'm less of a "toys for boys" kind of guy these days I am staring at five years on my current notebook and have been thinking about the new MacBook Air. You know, the one they slide out of a manila folder in the ad? Lots of cool ideas but in a lot of ways I'm actually disappointed.
+While I'm less of a "toys for boys" kind of guy these days I am staring at five years on my current notebook and have been thinking about the new MacBook Air. You know, the one they slide out of a manila folder in the ad? Lots of cool ideas but in a lot of ways I'm actually disappointed.
 
 Let me first tell you, over the past twenty-five years the best computer I've ever used was a Powerbook Duo in 1994. It was fast, light, small, and highly focused on the mobile experience ... and it had a great docking solution. I always had all my stuff with me and I had only what I needed where I was. It didn't have a PC Card slot (standard in it's day), a floppy drive (standard in it's day). Nor did it have a CD-ROM drive or wired ethernet. Those features were in the dock. Interesting.
 

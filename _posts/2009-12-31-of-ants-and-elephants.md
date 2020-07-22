@@ -2,9 +2,10 @@
 title: "Of Ants and Elephants"
 date: "2009-12-31"
 author: Mike
+thumb: /assets/post-images/anant.jpg
 ---
 
-![anant](images/anant.jpg "anant")It's safe to say that since the dawn of the personal computer industry, tech marketing has been modeled after the theories of generalized technology adoption. The advice: one should market to the early adopters and grow into the early majority of the bell curve of adoption over time being ever cognizant of the chasm between the two.
+It's safe to say that since the dawn of the personal computer industry, tech marketing has been modeled after the theories of generalized technology adoption. The advice: one should market to the early adopters and grow into the early majority of the bell curve of adoption over time being ever cognizant of the chasm between the two.
 
 More recently folks like Malcolm Gladwell and others have gotten us to focus on the long tail, outliers and the edges of markets to find the connectors, tipping points and influencers. Much of this work has celebrated social media and networks as proof these trends theories are correct and sound.
 

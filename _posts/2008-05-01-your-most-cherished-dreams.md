@@ -2,13 +2,14 @@
 title: "Your Most Cherished Dreams"
 date: "2008-05-01"
 author: Mike
+thumb: /assets/post-images/meditate.jpg
 ---
 
-![meditate.jpg](images/meditate.jpg)A few months ago I got an interesting note in a fortune cookie. It read, "Hold onto your most cherished dreams." As usual, this fortune was authored as a generality and therefore would apply to most anyone but for some reason it really stuck with me. And the questions I started asking myself were, "what **are** my most cherished dreams?" and "how would I prioritize them?"
+A few months ago I got an interesting note in a fortune cookie. It read, "Hold onto your most cherished dreams." As usual, this fortune was authored as a generality and therefore would apply to most anyone but for some reason it really stuck with me. And the questions I started asking myself were, "what **are** my most cherished dreams?" and "how would I prioritize them?"
 
 I wrote, re-wrote and then re-wrote them again. Only after a few weeks was I happy with the results. So while I know I need to get better in directing my daily habits and actions to achieve them at least now I have a list:
 
-1. Be at peace with my healthy body, calm mind and charitable soul
+1. Be at peace with my healthy body, calm mind, and charitable soul
 2. Raise responsible, caring and inspired children
 3. Enjoy loving relationships while living in a warm, nurturing home
 4. Blissfully wonder in experiencing the beauty and mystery of creation

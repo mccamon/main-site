@@ -1,7 +1,6 @@
 ---
 title: "Five Ways Automattic Could Make WordPress the Bomb for Activists"
 date: "2018-10-05"
-thumb: "https://owasp.org/assets/images/people/staff_mike.jpg"
 author: Mike
 ---
 
@@ -11,7 +10,7 @@ Every movement needs an online presence. A place to tell their story, their acti
 
 Generally what we all do online in the US is governed and protected by the First Amendment. Just a few weeks ago the US Justice Department requested Dreamhost, an internet website hosting company, release “all records and information” relating to the site disruptj20.org and more specifically the IP addresses of those who visited the site. For those less technical, that would be like the Justice Department requiring Target to supply the CC# of every person who walked into the store even if they didn’t buy anything. At its most innocent, it’s a witch hunt. At its more sinister, its something out of the sci-fi movie Minority Report where police can arrest you before you even commit a crime.
 
-WordPress is used by 29% of all websites online. My guess is a fair number of those sites are used by activists - _**INCLUDING disruptj20.org (http://disruptj20.org/wp-admin)**_. This means Automattic, the company behind WordPress.com and the WordPress codebase, could make five simple changes that would make WordPress the bomb for activists online.
+WordPress is used by 29% of all websites online. My guess is a fair number of those sites are used by activists. This means Automattic, the company behind WordPress.com and the WordPress codebase, could make five simple changes that would make WordPress the bomb for activists online.
 
 **1\. Never, ever keep log files.** One reason why the Justice Department can get so many juicy facts about visitors, etc is virtually every website on the web maintains, and saves log files. Think of it as list of every visitor, page visited, admin login, and on and on - all timestamped with the web location you were at when you connected, what browser you use, your screen size and so forth. I can’t speak for Automattic, but most places don’t have a tidy log file management policy meaning quite often log files are kept into perpetuity. Log files are handy for troubleshooting errors, but maybe the WordPress Admin could expose a setting on how long to keep log files - something like never, hourly, daily, monthly, etc.
 

@@ -2,9 +2,11 @@
 title: "Earth Day 2007 Confession"
 date: "2007-04-23"
 author: Mike
+thumb: /assets/post-images/gore.jpg
+
 ---
 
-![gore.jpg](images/gore.jpg)Despite turing into a green wacko of late, I have a confession to make: I have never seen Mr. Gore’s “Inconvenient Truth.” In fact, I have no plans to ever see it. But probably for a reason other than you might think. I’ve thought about it for some time and my view is you don’t need to see the film to accept things are not good and something must be done. This movie is the classic issue of the messenger getting in the way of the message. I have no qualms with Mr. Gore, but I know plenty who do. How about we try this argument? Whether or not global warming exists is actually irrelevant.
+Despite turing into a green wacko of late, I have a confession to make: I have never seen Mr. Gore’s “Inconvenient Truth.” In fact, I have no plans to ever see it. But probably for a reason other than you might think. I’ve thought about it for some time and my view is you don’t need to see the film to accept things are not good and something must be done. This movie is the classic issue of the messenger getting in the way of the message. I have no qualms with Mr. Gore, but I know plenty who do. How about we try this argument? Whether or not global warming exists is actually irrelevant.
 
 Many of you have likely heard of “Pascal’s Wager.” Blaise Pascal is the famous 17th century French mathematician who developed a way to rationalize one’s belief in God. It goes something like “If you believe in God and turn out to be incorrect, you have lost nothing — but if you don’t believe in God and turn out to be incorrect, you will go to hell. Therefore it is foolish to be an atheist.”
 

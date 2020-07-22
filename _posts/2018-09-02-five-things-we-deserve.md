@@ -2,14 +2,10 @@
 title: "Five Things We All Deserve in Our Work"
 date: "2018-09-02"
 author: Mike
+thumb: /assets/post-images/IMG_00400-200x300,jpg
 ---
 
-![](images/IMG_0040-200x300.jpg)
-
-<img src="{{ site.baseurl }}/_posts/images/IMG_0040-200x300.jpg">
-
 For the first time in a while I’m on the job market looking for my next opportunity. I’m excited and I have a good deal of flexibility when it comes to compensation and the role but there are a few “really want to haves” wherever I might land over these next few months. So here is my list of "Five Things We All Deserve in Our Next Career."
-
 
 <!-- more -->
 

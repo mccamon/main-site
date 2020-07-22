@@ -2,9 +2,8 @@
 title: "Going Up Market"
 date: "2006-05-02"
 author: Mike
+thumb: /assets/post-images/AOL.thumbnail.jpg
 ---
-
-![AOL.jpg](images/AOL.thumbnail.jpg)
 
 I don't know about you but back in the day, I must have thrown away hundreds of those free signup disks for AOL. Call it techno-arrogance but there was no way I was going to use AOL when I could just sign up with a local ISP. And besides AOL was simply lame. Who on Earth would ever sign up for this sort of junk?
 

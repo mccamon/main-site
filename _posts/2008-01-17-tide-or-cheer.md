@@ -2,9 +2,10 @@
 title: "Tide or Cheer?"
 date: "2008-01-17"
 author: Mike
+thumb: /assets/post-images/tide.jpg
 ---
 
-![tide.jpg](images/tide.jpg)In a previous post I outlined my "another bad idea" for a startup. I had to explain to a few readers that I was being sarcastic as I thought it was actually a very good idea. Since then I've heard some were intrigued by the idea but weren't totally sold on the concept. Here's some more detail on how the re-branding should be part of your next startup.
+In a previous post I outlined my "another bad idea" for a startup. I had to explain to a few readers that I was being sarcastic as I thought it was actually a very good idea. Since then I've heard some were intrigued by the idea but weren't totally sold on the concept. Here's some more detail on how the re-branding should be part of your next startup.
 
 One of my friends thinks the market needs a simple authenticated online directory. I totally agree and it's a perfect idea that can illustrate how the rebranding of software concept would work. For those who don't know, basically we're talking about an online address book that you have to have a password to use. It would be accessible from any browser on the web and would let you look up phone numbers, email addresses and the like. It might even let you send a quick email to everyone on the list - not as sophisticated as something like a listserv, just some simple group mail stuff.
 

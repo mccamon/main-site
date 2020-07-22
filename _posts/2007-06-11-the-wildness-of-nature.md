@@ -2,9 +2,10 @@
 title: "The Wildness of Nature"
 date: "2007-06-11"
 author: Mike
----
+thumb: /assets/post-images/far_ice2.jpg
 
-![](images/far_ice2.jpg)Too often in our well-designed suburbs we forget the power and wildness of nature. Often bulldozed to the side to make way for a new strip mall or pulled from your yard as a nasty weed, too often we forget the power and wildness of nature. Last week we visited a place where humans keep their safe distance out of respect for the power and wildness of nature.. last week we visited Alaska.
+---
+Too often in our well-designed suburbs we forget the power and wildness of nature. Often bulldozed to the side to make way for a new strip mall or pulled from your yard as a nasty weed, too often we forget the power and wildness of nature. Last week we visited a place where humans keep their safe distance out of respect for the power and wildness of nature.. last week we visited Alaska.
 
 Ignore the cheesy cruise ship and all it's trappings, least of which was the endless induction of hand sanitizer as a mindless way to control germs. See the ship as the necessary evil to force you to slow your pace down to gaze in wonder of the wildness of Alaska.
 

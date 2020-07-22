@@ -2,9 +2,11 @@
 title: "An Election Observation (2008)"
 date: "2008-09-07"
 author: Mike
+thumb: /assets/post-images/vote.jpg
+
 ---
 
-![](images/vote.jpg)I have been interested in presidential elections since 1976. It was a little odd, but yes, I basically watched every minute of both conventions that summer. Ford and Carter. Over the years my interest has ebbed and flowed but I always try to keep an eye on things. The first election I voted in was 1980 having just recently attained voting age and I proudly cast my vote for John Anderson. I guess I was a contrarian even back then.
+I have been interested in presidential elections since 1976. It was a little odd, but yes, I basically watched every minute of both conventions that summer. Ford and Carter. Over the years my interest has ebbed and flowed but I always try to keep an eye on things. The first election I voted in was 1980 having just recently attained voting age and I proudly cast my vote for John Anderson. I guess I was a contrarian even back then.
 
 For me this year's election, for obvious reasons, is more interesting than the past several. Over my 20 year or so career I've learned a lot about marketing, positioning, messaging and spin. I know about talking points, media training the importance of a memorable quote. And this year we have a bounty of back and forth.
 

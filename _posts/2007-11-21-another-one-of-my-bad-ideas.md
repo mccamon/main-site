@@ -2,9 +2,10 @@
 title: "Another One of My Bad Ideas"
 date: "2007-11-21"
 author: Mike
+thumb: /assets/post-images/goose.jpg
 ---
 
-![goose.jpg](images/goose.jpg)As most of you likely know I've tried getting a startup going about a dozen times over the past two decades. I'd like to think many were good ideas but lacked, I'm not quite sure which, either the courage or the capital to make it happen. My first pitch was back when the first notebook computers we becoming available and I saw a need for an store-and-forward shared calendar and messaging system. No one really saw a need but I'm sure all of them now use Outlook daily.
+As most of you likely know I've tried getting a startup going about a dozen times over the past two decades. I'd like to think many were good ideas but lacked, I'm not quite sure which, either the courage or the capital to make it happen. My first pitch was back when the first notebook computers we becoming available and I saw a need for an store-and-forward shared calendar and messaging system. No one really saw a need but I'm sure all of them now use Outlook daily.
 
 It is an gross understatement that say the software market has changed over the past two decades. You can build simple web-based applications quite quickly, with little capital and resources. (Notice I didn't say with NO capital). The fact that the web allows you to deliver it essentially cost-free to a worldwide market makes finding that "killer app" a fool's quest. You don't need to find that one essential application for everyone, you can find that useful disposable one that appeals to anyone. And the digital nature of the web allows you to quickly re-cast your messaging and marketing to fit the changing whims of the market.
 

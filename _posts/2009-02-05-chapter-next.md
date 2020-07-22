@@ -2,9 +2,10 @@
 title: "Chapter Next"
 date: "2009-02-05"
 author: Mike
+thumb: /assets/post-images/river.jpg
 ---
 
-![river](images/river.jpg "river")As many of you know, for the past 20 or so years I've been enjoying an nice career in the technology industry. Nice stops at the Bluetooth SIG, Apple, Intel, Iomega, iModules and few other startups along the way. It has been a fantastic time and I have been fortunate to have a knack for something that also pays relatively well.
+As many of you know, for the past 20 or so years I've been enjoying an nice career in the technology industry. Nice stops at the Bluetooth SIG, Apple, Intel, Iomega, iModules and few other startups along the way. It has been a fantastic time and I have been fortunate to have a knack for something that also pays relatively well.
 
 Since I was in my late 20's I had always dreamed of my turn as the founder of a high-tech startup. It was going to be my fast ride on the big IPO/buyout fantasy of "never having to work again" – unless I wanted to. Over the past 4-5 years I have come to the conclusion that this dream has passed me by while also growing disillusioned with the "toys for boys" mantra of new technology. Lord knows I love new gadgets, but catching the next big thing, in my analysis, has become little more than catching the wind. It is nothing.
 

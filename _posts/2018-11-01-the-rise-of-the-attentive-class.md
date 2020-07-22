@@ -2,7 +2,6 @@
 title: "The Rise of the Attentive Class"
 date: "2018-11-01"
 author: mike
-image: "https://mccamon.github.io/contrast/assets/images/mccamon-family.png"
 
 ---
 How did you find this article? When it comes to the latest news, where did you go to find it?
@@ -10,13 +9,6 @@ How did you find this article? When it comes to the latest news, where did you g
 I’ve done a fair amount of research on the velocity of messages on social media. My goal was to efficiently leverage and in some cases, game sites like Facebook, Twitter, and YouTube, to raise awareness for the international water crisis. Much of what I saw helps explain how machine-curated news and social media have changed what we know and when we know it but has also pushed us into our own black hole of agreeable viewpoints.
 
 <!-- more -->
-
-![an image](/_posts/images/AOL.thumbnail.jpg)
-![an image]({{ site.baseurl }}/_posts/images/AOL.thumbnail.jpg)
-![an image](_posts/images/AOL.thumbnail.jpg)
-![an image](/images/AOL.thumbnail.jpg)
-![an image](images/AOL.thumbnail.jpg)
-
 
 **Walter is Gone.** While certainly imperfect in his perspective and inclusiveness, when I was a kid Walter Cronkite curated the news. Okay not all the news, but metaphorically. Back then our news was discovered, researched, and reported by career professional journalists like Walter Cronkite. A good deal of news went unreported due to network news cycles and personal biases, but at least there was a professional filter. Today, most (all) online news is curated by algorithms which serve stories based on how many people have already clicked on them. If lots of people click, that news goes to the top of the feed. Is it fake news? Hell, the machines don’t care — they are just counting clicks. On platforms like Facebook, the most clicked posts show up in more of your friends’ feed. It’s technically democratic but certainly distorted in some very bad ways.
 

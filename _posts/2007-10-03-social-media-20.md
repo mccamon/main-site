@@ -2,11 +2,13 @@
 title: "Social Media 2.0"
 date: "2007-10-03"
 author: Mike
+thumb: /assets/post-images/venn.gif
+
 ---
 
 I've been goofing around with Facebook for a while now. It is really cool, engaging and often devilishly fun. But it is a walled garden, a waste of time and doesn't really solve our problem. The fundamental flaw is that personal relationships do not transcend context, they are birthed, grown and live within it. We lack the control we need; we lack the next generation of social media tools.
 
-![venn.gif](images/venn.gif)Sorry for the high school geometry diagram but I'll call this the Relationship Context diagram. We have many different contexts in our life but suffice to distill it down to three: (1) Professional, (2) Personal or private and (3) Public. Professional life is pretty obvious but in this example I would also include classmates for the school-age crowd. Personal is in many ways both a narrow but deep and wide context. It's who you really are around your very closest friends. And finally there is Public which is the content you would share with most anyone.
+Sorry for the high school geometry diagram but I'll call this the Relationship Context diagram. We have many different contexts in our life but suffice to distill it down to three: (1) Professional, (2) Personal or private and (3) Public. Professional life is pretty obvious but in this example I would also include classmates for the school-age crowd. Personal is in many ways both a narrow but deep and wide context. It's who you really are around your very closest friends. And finally there is Public which is the content you would share with most anyone.
 
 All contexts have codes of conduct. All have a certain tolerance for what can be exposed without risk of reputation. All have culturally agreed upon measures of wealth and success and all have differing expectations as to how much we can expose about our own insecurities and doubts. And lastly, all have a moral framework governing what can be considered humorous, offensive or abusive.
 

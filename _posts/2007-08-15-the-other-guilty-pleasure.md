@@ -2,9 +2,11 @@
 title: "The Other Guilty Pleasure"
 date: "2007-08-15"
 author: Mike
+thumb: /assets/post-images/can.jpg
+
 ---
 
-![can.jpg](images/can.jpg)No doubt you've been reading online, and even in the mainstream press, of the impact of bottled water and the merits of city tap water. Obviously the impact is profound. From the resources used to make the bottles, to the resources needed to ship it all around the world and all this for a product that is only slightly better than the (nearly) free stuff that flows from the faucet in your own home. But while examining my beverage lifestyle I've discovered a far darker guilty pleasure.
+No doubt you've been reading online, and even in the mainstream press, of the impact of bottled water and the merits of city tap water. Obviously the impact is profound. From the resources used to make the bottles, to the resources needed to ship it all around the world and all this for a product that is only slightly better than the (nearly) free stuff that flows from the faucet in your own home. But while examining my beverage lifestyle I've discovered a far darker guilty pleasure.
 
 What weighs more than three fully loaded 747s, is a nice chilly 35F degrees and consumes as much power in one year as nearly one million U.S. households? That chilled soda pop you just bought from a vending machine.
 

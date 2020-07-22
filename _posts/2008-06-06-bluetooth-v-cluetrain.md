@@ -2,9 +2,10 @@
 title: "Bluetooth v Cluetrain"
 date: "2008-06-06"
 author: Mike
+thumb: /assets/post-images/winner.jpg
 ---
 
-![](images/winner.jpg)This year is the 10-year anniversary of both Bluetooth technology and the Cluetrain Manifesto; probably the two biggest influences in my professional life over this past decade as well. It got me wondering, "which one has been more successful?"
+This year is the 10-year anniversary of both Bluetooth technology and the Cluetrain Manifesto; probably the two biggest influences in my professional life over this past decade as well. It got me wondering, "which one has been more successful?"
 
 Most of you likely already know about Bluetooth and my role with the trade group. Certainly a very successful wireless technology as measured by radios shipped in products, but perhaps not so much in the way of customer usage. The dream that was Bluetooth was no less to become the universal low-power wireless interconnect for electronic products. Arguably, today it is solely a connection method for headsets and mobile phones. A gigantic market to be sure, but a far cry from it's original aspirations.
 

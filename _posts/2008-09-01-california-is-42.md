@@ -2,9 +2,8 @@
 title: "California is #42"
 date: "2008-09-01"
 author: Mike
+thumb: /assets/post-images/mapus_teens1.jpg
 ---
-
-[![](images/mapus_teens1.jpg "mapus_teens")](http://mccamon.org/wp-content/uploads/2008/08/mapus_teens1.jpg)
 
 As some of you already know, I like to dig into the numbers. Not financials and budgets per se, but demographics and adoption trends. For firstly a marketeers' task is to persuade the audience of inevitabilities; not that the world can be different, but it will be. That success is inevitable despite insurmountable odds. It is simply the epitome of selling hope in a bottle.
 

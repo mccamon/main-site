@@ -2,9 +2,11 @@
 title: "My Big Fat Full Shopping Cart"
 date: "2006-03-19"
 author: Mike
+thumb: /assets/post-images/cart.jpg
+
 ---
 
-![cart.jpg](images/cart.jpg)Ever go to the grocery store without a shopping list? I was broken of the habit long ago but I remember the symptoms of this way of living: you fill up your shopping cart, spend more than you planned only to discover two days later you didn't really buy anything to eat. I think too often companies have this same problem.
+Ever go to the grocery store without a shopping list? I was broken of the habit long ago but I remember the symptoms of this way of living: you fill up your shopping cart, spend more than you planned only to discover two days later you didn't really buy anything to eat. I think too often companies have this same problem.
 
 If you wanted to break this down, the week's menu would be your top-line strategy and the shopping list are the tactics to implement the plan while the shopping cart is the collection of all your resources. When you have resources with no strategy you can wander the isles looking for things to fill the shopping cart and often do. With a shopping list you've already thought about where you're going and as early as when you walk in the grocery store you can choose a basket if the list is short enough.
 

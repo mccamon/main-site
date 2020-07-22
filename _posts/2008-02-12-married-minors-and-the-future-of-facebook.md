@@ -2,9 +2,10 @@
 title: "Married Minors and the Future of Facebook"
 date: "2008-02-12"
 author: Mike
+thumb: /assets/post-images/wedding.jpg
 ---
 
-![wedding.jpg](images/wedding.jpg)After about 20 minutes of fun it was clear that I could write dozens of posts about the demographics of Facebook. But it's getting late so for now I'll only focus on a few fun facts. Thanks to Vince for encouraging me to check out the link - http://www.facebook.com/ads, it made my day.
+After about 20 minutes of fun it was clear that I could write dozens of posts about the demographics of Facebook. But it's getting late so for now I'll only focus on a few fun facts. Thanks to Vince for encouraging me to check out the link - http://www.facebook.com/ads, it made my day.
 
 So all of my readers likely have heard the well documented success of Facebook; and it's darling status as THE tool people need to exploit for their latest marketing endeavor. What is pretty remarkable is how much data folks are offering up about themselves that Facebook can use to target marketing back to the users. I suppose it's a lot less than what Google has on it's millions of Gmail users but it seems everyone's forgotten about that privacy issue for now.
 

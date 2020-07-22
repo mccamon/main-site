@@ -2,9 +2,10 @@
 title: "WiFi Mesh Mess"
 date: "2006-05-03"
 author: Mike
+thumb: /assets/post-images/cpool.jpg
 ---
 
-![cpool.jpg](images/cpool.jpg)Some time ago I compared public Wi-Fi hotspots to public restrooms: functional yet unkept dirty locked water access points of last resort. My view over the last five years hasn't changed much. I have frequently used both public and fee-based hotspots both in the US and abroad and in many cases they have been life savers but too often they have been a disappointment. Often they have been unbearably slow but it was my access technology of last resort.
+Some time ago I compared public Wi-Fi hotspots to public restrooms: functional yet unkept dirty locked water access points of last resort. My view over the last five years hasn't changed much. I have frequently used both public and fee-based hotspots both in the US and abroad and in many cases they have been life savers but too often they have been a disappointment. Often they have been unbearably slow but it was my access technology of last resort.
 
 For the past three or so years I also have watched in amazement so many peoples' euphoria over metro-wide Wi-Fi efforts. Of course most recently both Philadelphia and San Francisco have been in the news with well publicized efforts. Just earlier this week I also saw that Rhode Island is pushing to be the first state to have universal coverage for all it's residents. We won't tell anyone they're smaller than Los Angeles. And of course my favorite announcements are those from smaller towns where inevitably a city council-person will tout how this new Wi-Fi network will increase the city's competitiveness for high-tech jobs. Give me a break.
 

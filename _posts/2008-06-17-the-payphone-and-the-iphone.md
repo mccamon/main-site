@@ -2,9 +2,10 @@
 title: "The Payphone and the iPhone"
 date: "2008-06-17"
 author: Mike
+thumb: /assets/post-images/canidates.jpg
 ---
 
-[![](images/canidates.jpg "2008can")](http://mccamon.org/wp-content/uploads/2008/06/canidates.jpg)If Barack Obama could be compared to the iPhone, then it might seem that John McCain is the payphone. But before I get any further in this post, I should disclaim that I have yet to decide whom I might vote for this November and I am a huge Apple product fan and love the iPhone. Now for some fun...
+If Barack Obama could be compared to the iPhone, then it might seem that John McCain is the payphone. But before I get any further in this post, I should disclaim that I have yet to decide whom I might vote for this November and I am a huge Apple product fan and love the iPhone. Now for some fun...
 
 Why do people like the iPhone? Lots of reasons. I think we can characterize it as something that feels genuinely new in the already tired category of smart phones. It screams "change!" like no other product in the category. No keyboard, beautiful and elegant user interface, modern base operating system and what looks to be an unlimited potential.
 

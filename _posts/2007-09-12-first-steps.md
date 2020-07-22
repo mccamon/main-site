@@ -2,9 +2,11 @@
 title: "First Steps"
 date: "2007-09-12"
 author: Mike
+thumb: /assets/post-images/steps.jpg
+
 ---
 
-![steps.jpg](images/steps.jpg)I think all of us have something in our lives we'd like to make better or improve. The question is how do we get started in changing things? Is it some special formula, organizational system, motivational technique or coaching camp? No, I think it's far simpler than all that: the answer, which you've heard before, goes "every journey begins with the first step." You just have to get started. As an old friend use to say, "the hardest part about going for a jog is just getting out the front door." I think he's right.
+I think all of us have something in our lives we'd like to make better or improve. The question is how do we get started in changing things? Is it some special formula, organizational system, motivational technique or coaching camp? No, I think it's far simpler than all that: the answer, which you've heard before, goes "every journey begins with the first step." You just have to get started. As an old friend use to say, "the hardest part about going for a jog is just getting out the front door." I think he's right.
 
 This "first step" seems to have great implications for those of us who are marketeers. While certainly no guarantee of success, getting someone to consider a product or service first begins with the person figuring out they have a problem, or what I sometimes call "an itch to scratch." Without an itch there is no reason to begin the effort to find a way to scratch it. Without an itch we don't see offers, notice advertisements, see related concepts in our lives, ask our friends and colleagues about their experiences or even do the coveted Google search. Without an itch, we never take the first step.
 

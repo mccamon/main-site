@@ -2,9 +2,10 @@
 title: "Your Opinion Doesn't Matter"
 date: "2006-04-26"
 author: Mike
+thumb: /assets/post-images/dogfood.thumbnail.jpg
 ---
 
-![dogfood.jpg](images/dogfood.thumbnail.jpg)If you've worked with me for any length of time you have probably heard my "focus group of one" disclaimer. Normally I use this phrase just prior to adding my personal opinion of how I might use this or that new product. My point is that "here's my opinion" but it's just one of many for us to consider in our decision making process.
+If you've worked with me for any length of time you have probably heard my "focus group of one" disclaimer. Normally I use this phrase just prior to adding my personal opinion of how I might use this or that new product. My point is that "here's my opinion" but it's just one of many for us to consider in our decision making process.
 
 Not to lament the point but focus groups are simply data points. I would also argue they are really too often bad data at that. Finding a dozen random people with a free weekday evening, putting them in a room with a facilitator to explain a new concept idea and then having them react to the information is in my view the most artificial data collection methodology known to humankind. Most potential buyers never, ever get this upfront information in the purchase decision making process.
 

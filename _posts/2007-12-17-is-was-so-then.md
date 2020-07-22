@@ -2,9 +2,10 @@
 title: "Is Was So Then"
 date: "2007-12-17"
 author: Mike
+thumb: /assets/post-images/mikehigh.jpg
 ---
 
-![mikehigh.jpg](images/mikehigh.jpg)A few weeks ago Facebook removed the mandatory "is" from a person's profile status; and while I, like many, welcomed the change I'm here to say, is was so then. Over the past two decades, our interconnected digital lives have been a direct assault on the notion of is. I'm glad today's tech darling has finally got with the program.
+A few weeks ago Facebook removed the mandatory "is" from a person's profile status; and while I, like many, welcomed the change I'm here to say, is was so then. Over the past two decades, our interconnected digital lives have been a direct assault on the notion of is. I'm glad today's tech darling has finally got with the program.
 
 So much of the web, and certainly email, is a store and retrieve medium. I write and send an email but as the sender I don't have any idea when you might read it, what mood you'll been and if the environment you're reading it is predisposed to your understanding it. And when it comes to website content one has no idea when or where something will get read. Is had a tense; it was now. Not an hour ago, not yesterday, it was now. Using present-tense language on the web implies a sense of immediacy that simply doesn't really exist. Even on Facebook my status updates are sporadic and driven more by events in my life than the immediacy of it.
 

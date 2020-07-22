@@ -2,9 +2,10 @@
 title: "Next Time it will be Different"
 date: "2008-11-04"
 author: Mike
+thumb: /assets/post-images/flag.jpg
 ---
 
-![](images/flag.jpg)Tomorrow is election day in the U.S. While there are many other races at stake, I think it's safe to say nearly every voter I know is sick of the entire presidential race. Rather than talk about change or maverick behavior, here's my top five list of how next time it could be different.
+Tomorrow is election day in the U.S. While there are many other races at stake, I think it's safe to say nearly every voter I know is sick of the entire presidential race. Rather than talk about change or maverick behavior, here's my top five list of how next time it could be different.
 
 1) Shorten the campaign season. For goodness sake, narrowing down the field during the primaries shouldn't take so long. It seems like the Democrats started nearly two years ago. In addition to our sanity I'd like to ask a very simple question, what would your current employer do if you left you full-time job for nearly two years trying to get your next one? I assume all the candidates still draw a paycheck from the U.S. or Alaskan government while they are out job hunting. At a fundamental level this just seems wrong. And if they really have that much free time, maybe they're getting paid too much in the first place.
 

@@ -2,9 +2,11 @@
 title: "five marketing myths"
 date: "2007-09-21"
 author: Mike
+thumb: /assets/post-images/fivemyths.jpg
+
 ---
 
-![fivemyths.jpg](images/fivemyths.jpg)The other day I was reading from an accomplished marketeer some tips about how to build product champions. While an interesting read, it got me thinking that there's a lot of snake oil being sold as conventional wisdom about marketing; product champions being one of the more recent ones. It motivated me to sit down and come up with a quick "Five Myths" list to dispute some popular rantings. So here they are in no particular order:
+The other day I was reading from an accomplished marketeer some tips about how to build product champions. While an interesting read, it got me thinking that there's a lot of snake oil being sold as conventional wisdom about marketing; product champions being one of the more recent ones. It motivated me to sit down and come up with a quick "Five Myths" list to dispute some popular rantings. So here they are in no particular order:
 
 **1\. People care about your product**. Let's get one thing straight: people have lives and they really don't care about your product. They have to get the kids dressed and off to school, they have work to do, laundry, bills to pay and dishes to wash. Cars to get fixed, yards to mow, meetings to attend, family to care for and houses to clean. Every now and then they have some down time and during those times they are resting, relaxing, entertaining or just vegging on the couch. They have far too many things to do than to see, read, comprehend and act on your pitch. Get over it.
 

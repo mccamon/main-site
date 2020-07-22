@@ -2,9 +2,10 @@
 title: "I Am Not a Marathoner"
 date: "2007-01-22"
 author: Mike
----
+thumb: /assets/post-images/marathon.jpg
 
-![marathon.jpg](images/marathon.jpg)For the past 3-4 years I've become a fairly avid runner. Not lightning fast but it would seem respectable for my age and level of fitness. There are few things that clear my head as well as a nice lunch-time four mile run outdoors when the weather is nice. Try as I may, I'm not so sure I'm up to running a marathon; but I've played with the idea.
+---
+For the past 3-4 years I've become a fairly avid runner. Not lightning fast but it would seem respectable for my age and level of fitness. There are few things that clear my head as well as a nice lunch-time four mile run outdoors when the weather is nice. Try as I may, I'm not so sure I'm up to running a marathon; but I've played with the idea.
 
 One thing's for certain it would seem I am not a Career Marathoner. Let me explain. For those of you who know me well you knew it couldn't last forever; this month I've moved on - again. In what is becoming a far too familiar tale someone I've worked with in the past called wanting some help, it looked like I could make an impact so I switched jobs. Maybe I should wear a disclaimer on my forehead: bore me, I leave.
 

@@ -2,9 +2,10 @@
 title: "The Ten Finger Rule"
 date: "2005-12-21"
 author: Mike
+thumb: /assets/post-images/hands.jpg
 ---
 
-![](http://www.mccamon.org/home/wp-content/images/hands.jpg)Working in the standards market reporters and analysts often ask you to get your crystal ball out and predict when your technology will be a mainstream phenomenon. While I often take a shot - usually a conservative estimate as it's always best to under-promise and over-deliver - I like to use this question to share an observation I made some years ago. It's Mike's "Ten Finger Rule."
+Working in the standards market reporters and analysts often ask you to get your crystal ball out and predict when your technology will be a mainstream phenomenon. While I often take a shot - usually a conservative estimate as it's always best to under-promise and over-deliver - I like to use this question to share an observation I made some years ago. It's Mike's "Ten Finger Rule."
 
 Generally speaking it takes ten years for a new technology before one can determine if it will become mainstream. That is of course if it ever does. Or written differently, the "market acceptability of a new technology is a decade." I have seen this time and time again.
 

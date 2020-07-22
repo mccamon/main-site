@@ -2,9 +2,10 @@
 title: "Has Apple Done it Again?"
 date: "2008-08-19"
 author: Mike
+thumb: /assets/post-images/appstore.jpg
 ---
 
-[![](images/appstore.jpg)](http://mccamon.org/wp-content/uploads/2008/08/appstore.jpg)Let me start out admitting I'm a total Apple homer. I worked at the fruit company a digital lifetime ago but still consider it one of the better jobs over my 20+ year career. While I still haven't broken down and bought an AppleTV I've certainly pacified my fetish for Apple gear most recently with an iPhone 3G. Over the past week I've started to ask myself the question, "has Apple done it again?" Has Apple reinvented the software business the same way it did for music?
+Let me start out admitting I'm a total Apple homer. I worked at the fruit company a digital lifetime ago but still consider it one of the better jobs over my 20+ year career. While I still haven't broken down and bought an AppleTV I've certainly pacified my fetish for Apple gear most recently with an iPhone 3G. Over the past week I've started to ask myself the question, "has Apple done it again?" Has Apple reinvented the software business the same way it did for music?
 
 We all know the story about digital music and the iPod. I'm sure there are many angles to take on this one; the piracy story, the compression story, the record-label view, the artist view, the consumer and on and on, but I think it's easy to argue the iPod saved the music industry. Yes, musicians and their handlers hate to admit it, but I know more people who, after buying an iPod, have bought more music than they had on their own without an iPod for years - or in my case decades. A buck is easy and often times it's an impulse buy. How else can I explain buying The Knack's "My Sharona"? (If you didn't graduate high school around 1980 you won't get it). It also helps the model let's you buy only exactly what you want – not the industry-preferred packaging of albums.
 
