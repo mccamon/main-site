@@ -3,7 +3,7 @@
 title: "Five Ways Automattic Could Make WordPress the Bomb for Activists"
 date: "2018-10-05"
 author: Mike
-image: /assests/post-images/protest.jpg
+image: /assets/post-images/protest.jpg
 
 ---
 
