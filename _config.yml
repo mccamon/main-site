@@ -1,7 +1,7 @@
 title: "mccamon.org"
 author: "Mike McCamon"
 description: "Nothing special going on here"
-permalink: /:title/
+permalink: /:year/:month/:title/
 lang: "en"
 excerpt_separator: "<!-- more -->"
 date_format: "%B %d, %Y"
