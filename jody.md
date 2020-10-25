@@ -1,6 +1,6 @@
 ---
 
-Title: Jodu
+Title: Jody
 permalink: /jody
 layout: page
 
