@@ -6,7 +6,7 @@ layout: page
 
 ---
 
-![](assets/images/lina-photo.png)
+![](assets/images/lina-photo.jpg)
 
 Hello my name is Lina. I am currently a sophomore at Emporia State University majoring in Early Childhood Education. My goal is to become a K-3 teacher in a diverse school disctrict. Not only have had part-time work in childcare centers, but during my senior year of high school, I served eight hours per week as a teachers' assistant to a private school's afternoon kindergarten classes. 
 
