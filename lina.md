@@ -8,7 +8,7 @@ layout: page
 
 ![](assets/images/lina-photo.jpg)
 
-Hello my name is Lina. I am currently a sophomore at Emporia State University majoring in Early Childhood Education. My goal is to become a K-3 teacher in a diverse school disctrict. Not only have had part-time work in childcare centers, but during my senior year of high school, I served eight hours per week as a teachers' assistant to a private school's afternoon kindergarten classes. 
+Hello my name is Lina. I am currently a sophomore at Emporia State University majoring in Early Childhood Education. My goal is to become a K-3 teacher in a diverse Kansas school disctrict. Not only have had part-time work in childcare centers, but during my senior year of high school, I served eight hours per week as a teachers' assistant to a private school's afternoon kindergarten classes. 
 
 <a href="mailto:lina@mccamon.ong">Mail</a> ~ Instagram ~ Facebook
 
@@ -16,23 +16,25 @@ Hello my name is Lina. I am currently a sophomore at Emporia State University ma
 
 ## Heritage Christian Academy
 ### Teachers’ Assistant - Kindergarten  [ September  2018 to May 2019]
-- Credit-earning work study for K-8 school.
+- Credit-earning internship for K-8 school.
 - Assisted teachers with classroom instruction.
-- Worked with students one-on-one tutoring reading skills.
+- Worked with students one-on-one tutoring writing, reading, and math skills.
+- Prepped projects and assignments for students.
 - Rotated between several classrooms as needed.
 
 ## Lifetime Fitness, Childrens’ Center 
 ### Childcare Provider [May 2017 to August 2019]
 
 - Part-time afternoons and summer role at upscale fitness center
-- Supervised children ages newborn to 10 years.
+- Supervised children ages three months to 12 years.
 - Assisted with organized playtime for K-6 aged children.
-- Instructor for Youth Daytime Summer Camps
+- Instructor for Seasonal Camps and Parents Nights Out.
 
 ## Grace Covenant Presbyterian Church
-### Childcare Teen Assistant [August 2015 to August 2019]
+### Childrens' Team Assistant [August 2015 to August 2019]
 
 - Assisted childcare team with children aged newborn to seven years old.
+- Youth Music Leader for vocalists K-5.
 
 ## Education
 
