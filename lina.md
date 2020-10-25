@@ -8,7 +8,7 @@ layout: page
 
 ![](assets/images/lina-photo.jpg)
 
-Hello my name is Lina. I am currently a sophomore at Emporia State University majoring in Early Childhood Education. My goal is to become a K-3 teacher in a diverse Kansas school disctrict. Not only have had part-time work in childcare centers, but during my senior year of high school, I served eight hours per week as a teachers' assistant to a private school's afternoon kindergarten classes. 
+Hello my name is Lina. I am currently a sophomore at Emporia State University majoring in Early Childhood Education. My goal is to become a K-3 teacher in a diverse Kansas school disctrict. Not only have I had part-time work in childcare centers, but during my senior year of high school, I served eight hours per week as a teachers' assistant to a private school's afternoon kindergarten classes. 
 
 <a href="mailto:lina@mccamon.ong">Mail</a> ~ Instagram ~ Facebook
 
@@ -30,15 +30,15 @@ Hello my name is Lina. I am currently a sophomore at Emporia State University ma
 - Assisted with organized playtime for K-6 aged children.
 - Instructor for Seasonal Camps and Parents Nights Out.
 
-## Grace Covenant Presbyterian Church
-### Childrens' Team Assistant [August 2015 to August 2019]
-
-- Assisted childcare team with children aged newborn to seven years old.
-- Youth Music Leader for vocalists K-5.
-
 ## Education
 
 - Emporia State University, Early Childhood Education, Graduating 2024
 - Heritage Christian Academy, HIgh School Diploma, 2019
+- Regina Reynolds Youth Scholarship, 2019
 
+## Volunteer
+
+- Church Nursery Volunteer for children aged newborn to seven years old.
+- Music Makers Youth Music Program for vocalists K-5.
+- Free Hot Soup serving food insecure in Olathe, Kansas.
 
