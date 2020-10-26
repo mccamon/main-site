@@ -40,5 +40,5 @@ Hello my name is Lina. I am currently a sophomore at Emporia State University ma
 
 - Church Nursery Volunteer for children aged newborn to seven years old.
 - Music Makers Youth Music Program for vocalists K-5.
-- Free Hot Soup serving food insecure in Olathe, Kansas.
+- Free Hot Soup serving food insecure people in Olathe, Kansas.
 
