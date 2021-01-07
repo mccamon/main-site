@@ -13,9 +13,9 @@ Jessie Kemp Ruddle McCamon of Topeka, Kansas died peacefully on January 3 with h
 
 Born in Oklahoma, “Jeannie” spent much of her childhood in and around Stigler, Moffatt, Briartown, Arkoma, and mostly Keoto, Oklahoma - the latter of which she proudly claimed as her hometown. Following her retirement she often visited in addition to exhibiting her genealogy and local research at Old Settlers’ Days. Her lifelong connection to the area made her always excited to read the latest issues of the Stiger State Sentinel until her death.
 
-> Read Jessie's [childhood historical](/ruddle-history/) timeline
-
 As a teenager her family moved to Wichita where she graduated from Derby High School in 1958. After later graduating from Wesley Nursing School, she was a nurse for decades at Wesley Medical Center and the Sedgwick County Health Department. Jessie was a life-long learning not only getting her Masters Library Science but also her Bachelors in History and another in Nursing. Health challenges nudged her into retirement in her late 50s and about five years ago she moved to Topeka to be closer to her children and grandchildren. 
+
+> Read Jessie's [childhood historical](/ruddle-history/) timeline
 
 Jessie’s passion was genealogy - a hobby she pursued for 50+ years long before the internet and computer searches. She was grateful for the help of her extended network of cousins and the communities in Stigler and Keota to help her with her research. In the end, her work traced the family far and wide back to the Old World, her Choctaw heritage, and even as some of the first settlers of Florida before statehood and New Amsterdam (NYC). Her final research project was to inventory the original farmhouses in and around Derby, Kansas which she took great pride in exhibiting at the Derby Historical Society Museum.
 
