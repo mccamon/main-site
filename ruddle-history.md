@@ -1,6 +1,6 @@
 ---
 
-Title: Ruddle Famliy History
+Title: "Ruddle Famliy History"
 layout: page
 
 ---
