@@ -7,7 +7,7 @@ image: /assets/post-images/jessie-group.jpg
 
 ---
 
-Jessie Kemp Ruddle McCamon died January 3 in Topeka, Kansas in peace with her daughter by her side. Her two children Mike and Lea had been with her during the final days of her life after being admitted into the hospital on the 30th for health issues (non-Covid related). She was 80 years old.
+Jessie Kemp Ruddle McCamon of Topeka, Kansas died peacefully on January 3 with her daughter by her side. Her two children Mike and Lea had been with her during the final days of her life after being admitted into the hospital on the 30th for health issues (non-Covid related). She was 80 years old.
 
 <!-- more -->
 
