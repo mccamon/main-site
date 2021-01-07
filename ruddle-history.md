@@ -4,7 +4,7 @@ Title: Ruddle Famliy History
 layout: page
 
 ---
-
+Ruddle Famliy History
 
 ### November 19, 1939
 Steve Ruddle, Jr. and Jessie Jean Kemp went out on a date and went to Ft. Smith and got married. Grandma Kemp was not happy about the marriage. Mother said they lived with Grandpa and Grandma Ruddle after they were married. They were separated in September 1940 when i was born but later reconciled.
