@@ -4,13 +4,13 @@ Title: Ruddle Famliy History
 layout: page
 
 ---
-Ruddle Famliy History
+# Ruddle Famliy History
 
 ### November 19, 1939
-Steve Ruddle, Jr. and Jessie Jean Kemp went out on a date and went to Ft. Smith and got married. Grandma Kemp was not happy about the marriage. Mother said they lived with Grandpa and Grandma Ruddle after they were married. They were separated in September 1940 when i was born but later reconciled.
+Steve Ruddle, Jr. and Jessie Jean Kemp went out on a date and went to Ft. Smith and got married. Grandma Kemp was not happy about the marriage. Mother said they lived with Grandpa and Grandma Ruddle after they were married. They were separated in September 1940 when I was born but later reconciled.
 
 ### May 1942
-The family lived in a house about one mile north of the current Stigler High school on Perry Road. The house no longer exists. The family later lived in Alanreed, Texas on 1-40 east of Amarillo. Mother talked about living in a two story house and falling down the stairs. There were no two story houses in Alanreed several years ago when I stopped there. I think Daddy worked in a nursery.
+The family lived in a house about one mile north of the current Stigler High school on Perry Road. The house no longer exists. The family later lived in Alanreed, Texas on Interstate 40 east of Amarillo. Mother talked about living in a two-story house and falling down the stairs. There were no two story houses in Alanreed several years ago when I stopped there. I think Daddy worked in a nursery.
 
 ### July 1943
 Barbara was born about a mile north of the stoplight in Stigler. It was then in the country and a house provided by Conard Nursery for employees but is now on the outskirts of town.
