@@ -3,7 +3,7 @@ title: "Jessie McCamon (1940-2021)"
 date: "2021-01-03"
 author: Mike
 permalink: /jessie
-image: /assets/post-images/jessie-thumb.jpg
+image: /assets/post-images/jessie-group.png
 
 ---
 
