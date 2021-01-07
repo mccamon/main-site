@@ -3,7 +3,7 @@ title: "Jessie McCamon (1940-2021)"
 date: "2021-01-03"
 author: Mike
 permalink: /jessie
-thumb: /assets/post-images/jessie-thumb.jpg
+image: /assets/post-images/jessie-thumb.jpg
 
 ---
 
@@ -19,4 +19,8 @@ Jessie’s passion was genealogy - a hobby she pursued for 50+ years long before
 
 Jessie had a long list of heroes. Her children and grandchildren, her mother Jessie Jean Kemp and her maternal grandmother Dora Kemp. Her siblings Charles Ruddle, Wayne Ruddle, Barbara Yoho, and Jackie Lee Norris. Her step-parents Jack Norris and Miriam Ruddle. The extended Kemp family, the aunts, uncles, and cousins who welcomed her and her siblings into their homes. Sharon Jose, a head nurse who treated her with such respect and provided the best leadership of her long career. The many co-workers, RNs, LPNs, and nurse aids who taught her what she didn’t learn in nursing school. The patients who shared their stories and knowledge.
 
-Blessed are those with a loving family who find a hobby they truly enjoy. No services are planned. She is survived by her children, Mike of Overland Park, Kansas and Lea of Topeka, Kansas along with their families with five grandchildren. In lieu of flowers, the family encourages donations in Jessie’s name to the Derby, Kansas Historical Society or the Haskell County, Oklahoma Historical Society.
+Blessed are those with a loving family who find a hobby they truly enjoy. No services are planned. She is survived by her children, Mike of Overland Park, Kansas and Lea of Topeka, Kansas along with their families with five grandchildren. In lieu of flowers, the family encourages donations in Jessie’s name to the [Derby, Kansas Historical Society](https://derbykshistorymuseum.org/donate) or the [Haskell County, Oklahoma Historical Society](https://haskellok.tripod.com/).
+
+### More Memories about Jessie
+- [She Never Met a Stranger](/2021/01/jessie-story-stranger/)
+- [Advocate of Equal Rights](/2021/01/jessie-story-equal-rights/)
