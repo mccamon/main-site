@@ -4,7 +4,7 @@ Title: "Ruddle Famliy History"
 layout: page
 
 ---
-Dated Christmas 2007 Jessie Jean Ruddle McCamon. I don't remember all the places we lived around Stigler or in town, and I still have dreams about moving into another house. Whenever Charles, Barbara talk about those years, we often have different memories of the same event. We do all agree though that the best thing that happened was moving to Wichita where we could have more opportunities.
+Dated Christmas 2007 [Jessie Jean Ruddle McCamon](/jessie). "I don't remember all the places we lived around Stigler or in town, and I still have dreams about moving into another house. Whenever Charles, Barbara talk about those years, we often have different memories of the same event. We do all agree though that the best thing that happened was moving to Wichita where we could have more opportunities."
 
 ## Ruddle Family History 
 
