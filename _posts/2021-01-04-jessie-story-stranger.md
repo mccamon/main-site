@@ -1,12 +1,10 @@
 ---
-title: "Jessie McCamon (1940-2021)"
-date: "2021-01-03"
+title: "She Never Met a Stranger"
+date: "2021-01-04"
 author: Mike
 image: /assets/post-images/family-1978.jpg
 
 ---
-## She Never Met a Stranger
-
 My mother Jessie died earlier this evening. Thankfully in peace with my sister by her side. Lea and I had been with her most of the last few days, myself seeing her just a few hours before she left. Mom was admitted into the hospital on the 30th for breathing issues (non-Covid related) and never fully recovered.  She was 80 years old.
 
 <!-- more -->
