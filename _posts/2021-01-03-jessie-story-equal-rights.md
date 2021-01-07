@@ -2,7 +2,7 @@
 title: "Advocating for Equal Rights"
 date: "2021-01-05"
 author: Mike
-image: /assets/post-images/family-1978.jpg
+image: /assets/post-images/mike-lea.jpg
 
 ---
 My mom was a bright high school student in the 1950s at Derby High School, she often found herself one of the few girls in upper-level science and math classes. Her family couldn't afford to send her off to college but with a small family loan she was able to enroll and then eventually graduate from Wesley Nursing School in Wichita. In those days these two-year programs had students living on premise, taking classes, and effectively interning all at same time.
