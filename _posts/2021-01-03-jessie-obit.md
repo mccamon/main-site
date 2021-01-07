@@ -1,5 +1,5 @@
 ---
-title: "Jessie McCamon (1940-2021)"
+title: "Jessie Ruddle McCamon (1940-2021)"
 date: "2021-01-03"
 author: Mike
 permalink: /jessie
