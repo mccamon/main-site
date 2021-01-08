@@ -13,7 +13,7 @@ Born in Oklahoma, and other than a short time in Los Angeles and Phoenix as a yo
 
 Her passion was genealogy - a hobby she pursued for 50+ years, long before the internet, DNA testing, and computer searches. Yes she would drag Lea and I around for hours to libraries then to spool through endless reels of microfilm looking at census records and land deeds. It was this hobby that always made a new introduction more of an interrogation: "Oh you're from x, do you happen to know the y family?"  Or, "your last name is x, do you have any family from y?" She was always looking for a connection or a new genealogy lead.
 
-While sitting with mom in the hospital my sister and I joked that if you really do meet your ancestors when you pass, certainly mom will be by far the best prepared for the trip. Her research traced our families far and wide back to the Old World, our Choctaw heritage, and even as some of the first settlers of New Amsterdam (NYC), Kansas, and Florida before statehood.
+On her last day with us, my sister and I joked that if you really do meet your ancestors when you pass, certainly mom will be by far the best prepared for the trip. Her research traced our families far and wide back to the Old World, our Choctaw heritage, and even as some of the first settlers of New Amsterdam (NYC), Kansas, and Florida before statehood.
 
 My nuclear family dealt with a great deal of challenges when I was a kid. Widowed at 33 my mom was the ROCK. We weren't rich, our house never spotless, but she made sure both my sister and I not only had everything we needed, but that we also graduated from college to pursue our own passions.
 
