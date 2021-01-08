@@ -9,7 +9,7 @@ My mother Jessie died on January 3rd, thankfully in peace with my sister by her 
 
 <!-- more -->
 
-Born in Oklahoma, and other than a short time in Los Angeles and Phoenix when I was young, she lived most of her adult life in Wichita. A nurse for decades at Wesley and the Sedgwick County Health Department, she was a life-long student getting her Bachelors in Nursing and later a Bachelors in History and Masters in Library Science (this will make sense in the next paragraph). Health challenges nudged her into retirement in her late 50s and about four years ago she moved to Topeka to be closer to my sister and our families. 
+Born in Oklahoma, and other than a short time in Los Angeles and Phoenix as a young parent, she lived most of her adult life in Wichita. A nurse for decades at Wesley and the Sedgwick County Health Department, she was a life-long student getting her Bachelors in Nursing and later a Bachelors in History and Masters in Library Science (this will make sense in the next paragraph). Health challenges nudged her into retirement in her late 50s and about four years ago she moved to Topeka to be closer to my sister and our families. 
 
 Her passion was genealogy - a hobby she pursued for 50+ years, long before the internet, DNA testing, and computer searches. Yes she would drag Lea and I around for hours to libraries then to spool through endless reels of microfilm looking at census records and land deeds. It was this hobby that always made a new introduction more of an interrogation: "Oh you're from x, do you happen to know the y family?"  Or, "your last name is x, do you have any family from y?" She was always looking for a connection or a new genealogy lead.
 
