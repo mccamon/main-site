@@ -1,4 +1,6 @@
-**Jessie Ruddle McCamon**
+![Jessie Ruddle McCamon](jessie-ruddle-mccamon.jpg)
+
+## Jessie Ruddle McCamon
 
 September 1, 1940 to January 3, 2021
 
