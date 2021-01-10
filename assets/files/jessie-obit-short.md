@@ -12,4 +12,4 @@ Jessie’s passion was genealogy - a hobby she pursued for 50+ years. She was gr
 
 No services are planned. She is survived by her half-brother Jackie Lee Norris of Searcy, Arkansas and her children, Mike of Overland Park, Kansas and Lea of Topeka, Kansas along with their families with five grandchildren. Blessed are those with a loving family who find a hobby they truly enjoy. In lieu of flowers, the family encourages donations in Jessie’s name to the Derby, Kansas Historical Society or the Haskell County, Oklahoma Historical Society.
 
-*1,790 characters, 302 words*
+Length: *1,790 characters, 302 words*
