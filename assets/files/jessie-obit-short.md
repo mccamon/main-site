@@ -1,4 +1,4 @@
-![Jessie Ruddle McCamon](jessie-ruddle-mccamon.jpg =200px)
+![Jessie Ruddle McCamon](jessie-ruddle-mccamon.jpg){width=200px;}
 
 ## Jessie Ruddle McCamon
 
