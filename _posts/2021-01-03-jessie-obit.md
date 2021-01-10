@@ -29,5 +29,5 @@ Blessed are those with a loving family who find a hobby they truly enjoy. No ser
 - [Short Obituary](/assets/files/jessie-obit-short) with current photo
 - Jessie's [childhood historical](/ruddle-history/) timeline
 - Handwritten [Family Pedigree Chart](/assets/files/Family-pedigree-chart.pdf) from 1974
-- [Derby Farmhouse](/assets/files/derby-farmhouse.pdf) Research Summary
+- [Derby Farmhouse](/assets/files/derby-farmhouse.pdf) Research Abstract
 
