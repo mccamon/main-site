@@ -6,7 +6,6 @@ layout: page
 
 ---
 
-### Jody McCamon
 12420 Westgate Street
 Overland Park, KS 66213
 <a href="mailto:jody@mccamon.ong">Mail</a> ~ Peloton ~ Instagram ~ Facebook
