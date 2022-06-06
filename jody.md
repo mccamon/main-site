@@ -6,10 +6,9 @@ layout: page
 
 ---
 
-![](assets/images/jody-new.png)
-
-My family and health are my most important priorities. For most of my career was an accountant until I was diagnosed with breast cancer in 2016. Following treatment I elected to restart my career in healthcare to service patients navigating many of the decision I had to make during my cancer journey. We laughed when our middle child Lucas returned home from his Peace Corps assignment in Rwanda. The first thing he wanted was a Jimmy Johns sandwich!
-
+### Jody McCamon
+12420 Westgate Street
+Overland Park, KS 66213
 <a href="mailto:jody@mccamon.ong">Mail</a> ~ Peloton ~ Instagram ~ Facebook
 
 ***
@@ -22,7 +21,7 @@ My family and health are my most important priorities. For most of my career was
 - Volunteer in Missys’ Boutique
 
 ## University of Kansas - Edwards Campus 
-### Part time Accounting Specialist [January 2013 to September 2019]
+### Part time Accountant [January 2013 to September 2019]
 
 * Code and process an average of 50 accounts payable invoices per month. 
 * Process, track and reconcile $250,000 monthly in accounts receivable invoices for Continuing Education.
