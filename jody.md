@@ -14,9 +14,9 @@ Overland Park, KS 66213<br/>
 ### Accountant [January 202 to present]
 - Proccess accounts payables and receivables
 - Payroll responsibilities for a dozen clients
-- Prepare and review Monthly Financials including P&L Statement and Balance Sheet
+- Prepare and review monthly financials including P&L Statement and Balance Sheet
 - Prepare and file sales and payroll taxes
-- Individual Taxes
+- Individual taxes
 
 ## University of Kansas Cancer Center
 ### Certified Mastectomy Fitter [September 2019 to present]
