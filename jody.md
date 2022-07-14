@@ -23,7 +23,6 @@ Overland Park, KS 66213<br/>
 - Consult with breast cancer patients on various prosthetic options
 - Perform fittings and sizings
 - Process patient paperwork following appointments
-- Volunteer in Missys’ Boutique
 
 ## University of Kansas - Edwards Campus 
 ### Part time Accountant [January 2013 to September 2019]
