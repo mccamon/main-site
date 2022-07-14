@@ -12,9 +12,9 @@ Overland Park, KS 66213<br/>
 
 ## Palm Tree Consulting
 ### Accountant [January 202 to present]
-- Proccess accounts payables and recevables
-- Payroll responsiblities for a dozen clients
-- Prepare and Review Monthly Financials including P&L Statement and Balance Sheet
+- Proccess accounts payables and receivables
+- Payroll responsibilities for a dozen clients
+- Prepare and review Monthly Financials including P&L Statement and Balance Sheet
 - Prepare and file sales and payroll taxes
 - Individual Taxes
 
