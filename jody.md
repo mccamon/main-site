@@ -10,8 +10,16 @@ Overland Park, KS 66213<br/>
 
 ***
 
+## Palm Tree Consulting
+### Accountant [January 202 to present]
+- Proccess accounts payables and recevables
+- Payroll responsiblities for a dozen clients
+- Prepare and Review Monthly Financials including P&L Statement and Balance Sheet
+- Prepare and file sales and payroll taxes
+- Individual Taxes
+
 ## University of Kansas Cancer Center
-### Certified Mastectomy Fitter  [ September 2019 to present]
+### Certified Mastectomy Fitter [September 2019 to present]
 - Consult with breast cancer patients on various prosthetic options
 - Perform fittings and sizings
 - Process patient paperwork following appointments
