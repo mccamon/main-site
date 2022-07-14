@@ -4,8 +4,6 @@ permalink: /jody
 layout: page
 ---
 
-12420 Westgate Street<br/>
-Overland Park, KS 66213<br/>
 <a href="mailto:jody@mccamon.ong">Mail</a> ~ Peloton ~ Instagram ~ Facebook
 
 ***
