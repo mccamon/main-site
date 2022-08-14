@@ -34,21 +34,21 @@ January 2019 to Present [Wakefield, MA]
 
 Virtual enables associations, standards organizations, consortia, startup advocacy groups, and professional societies to achieve their goals and make a mark on the world. My role is to help leaders imagine their futures and then help their organizations navigate through change for growth. Standards organizations, non-profits, and high growth technology companies have been where I’ve championed change for good in both developing and developed economies worldwide.
 
-### Executive Director, NFC Forum (Client)
+### Executive Director, [NFC Forum (Client)](https://nfc-forum.org)
 - Develop, manage, and execute Strategic Goals and Objectives of the Forum
 - Facilitate redesign of Certification Program business model
 - Lead trademark work including design of updated corporate and wayfinder tap mark
 - Lead annual consumer adoption and awareness studies.
 - Ambassador of the Forum to members, partners, and press.
 
-### Executive Director, [OWASP Foundation (Client)](https://owasp.org)
+### Interim Executive Director, [OWASP Foundation (Client)](https://owasp.org)
 - Created and implemented organizational wide Operating and Project Planning
 - Led migration and launch of 25M annual visitor website to Github Pages
 
 ---
 
 ## Candidate for U.S. Congress Kansas 3rd District
-February 2018 to August 2019
+February 2018 to August 2018
 
 - Finished 4th place in field of six Democratic Primary.
 - Innovative use of digital marketing led to highest donor ROI of all candidates in field.
@@ -186,7 +186,7 @@ Iomega was the world leader in removable storage products for the PC industry. A
 ---
 
 ## Visual Components (acquired by Sybase)
-October 1995 to September 1997 [overland park, ks]
+October 1995 to September 1997 [Overland Park, KS]
 
 During the mid-90s there was growing interest in component based software for the PC industry. Visual Components designed software development tools for the Windows operating system. As the internet boomed we ported our products to Lotus Notes, Netscape and then Java. While Director of Products & Marketing I managed a portfolio of fifteen products growing our business to gain the attention of Sybase whom acquired us in 1997.
 
@@ -232,7 +232,7 @@ Apple remains the icon of innovation in the technology industry. Veterans normal
 ---
 
 ## Informix
-january 1988 to november 1989 [lenexa, ks]
+January 1988 to November 1989 [Lenexa, KS]
 
 Back in the day of database wars, Informix decided to merge with Innovative Software; the logic was this would allow each company to leverage their core competencies in database and, what we called then, workstation-based software. Having started in technical support for a DOS-based integrated Office product called SmartWare I was recruited to join marketing and there I worked on the team that brought Wingz to market.
 
