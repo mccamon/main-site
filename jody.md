@@ -9,12 +9,12 @@ layout: page
 ***
 
 ## Palm Tree Consulting
-### Accountant [January 202 to present]
+### Accountant [January 2022 to present]
 - Proccess accounts payables and receivables
 - Payroll responsibilities for a dozen clients
 - Prepare and review monthly financials including P&L Statement and Balance Sheet
 - Prepare and file sales and payroll taxes
-- Individual taxes
+- QuickBooks Online and Desktop
 
 ## University of Kansas Cancer Center
 ### Certified Mastectomy Fitter [September 2019 to present]
