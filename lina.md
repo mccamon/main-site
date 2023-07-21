@@ -8,7 +8,7 @@ layout: page
 
 ![](assets/images/lina-photo.jpg)
 
-Hello my name is Lina. I am currently a Tutor and Youth Development Professional for K-12 at Boys and Girls Club of Kansas City in Olathe. Earlier this year I earned my Associates of Arts and Associates of Liberal Arts from JCCC having also completed over 90 hours from Emporia State University majoring in Early Childhood Education. My goal is to become a K-3 teacher in a diverse student setting. Not only have I had full-time work in childcare centers, but during my senior year of high school, I served eight hours per week as a teachers' assistant to a private school's afternoon kindergarten classes. 
+Hello my name is Lina. I am currently a Tutor and Youth Development Professional for K-12 at Boys and Girls Club of Kansas City in Olathe. Earlier this year I earned my Associates of Arts and Associates of Science and Associates of Liberal Arts from JCCC having also completed over 90 hours from Emporia State University majoring in Early Childhood Education. My goal is to become a K-3 teacher in a diverse student setting. Not only have I had full-time work in childcare centers, but during my senior year of high school, I served eight hours per week as a teachers' assistant to a private school's afternoon kindergarten classes. 
 
 <a href="mailto:lina@mccamon.ong">Mail</a> ~ Instagram ~ Facebook
 
@@ -42,8 +42,10 @@ Hello my name is Lina. I am currently a Tutor and Youth Development Professional
 
 ## Education
 
-- Emporia State University, Early Childhood Education, Graduating 2024
-- Heritage Christian Academy, HIgh School Diploma, 2019
+- Associate of Sciences, JCCC, 2023
+- Associates of Liberal Arts, JCCC, 2023
+- Emporia State University, 90 hours credit and studey of Early Childhood Education program
+- Heritage Christian Academy, High School Diploma, 2019
 - Regina Reynolds Youth Scholarship, 2019
 
 ## Volunteer
