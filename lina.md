@@ -15,7 +15,7 @@ Hello my name is Lina. I am currently a Tutor and Youth Development Professional
 ***
 
 ## Boys & Girls Club of Kansas City, Olathe Unit
-### Tutor and Youth Development Professional - K-12  [ June 2021 to Present]
+### Tutor and Youth Development Professional - K-12  [June 2021 to Present]
 - Lesson planning for K-8 after-school students.
 - Supervision and daily oversite of two classrooms with 24 students.
 - Plan and conduct educational and recreational programs.
@@ -25,7 +25,7 @@ Hello my name is Lina. I am currently a Tutor and Youth Development Professional
 - Provide an environment that promotes creativity and exploration through learning.
 
 ## Heritage Christian Academy
-### Teachers’ Assistant - Kindergarten  [ September 2018 to May 2019]
+### Teachers’ Assistant - Kindergarten  [September 2018 to May 2019]
 - Credit-earning internship for K-8 school.
 - Assisted teachers with classroom instruction.
 - Worked with students one-on-one tutoring writing, reading, and math skills.
