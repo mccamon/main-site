@@ -8,7 +8,7 @@ layout: page
 
 ![](assets/images/lina-photo.jpg)
 
-I am currently a Tutor and Youth Development Professional at Boys and Girls Club of Kansas City in Olathe. Earlier this year I earned my Associates of Sciences and Associates of Liberal Arts from JCCC, also with over 90 hours completed in K-6 Childhood Education at Emporia State University. I have experience working in childcare and teaching roles, including serving as a teachers' assistant to afternoon kindergarten classes during my senior year of high school. 
+I am currently a Tutor and Youth Development Professional at Boys and Girls Club of Kansas City in Olathe. Earlier this year I earned my Associates of Sciences and Associates of Liberal Arts from JCCC, and have also completed 90 hours in K-6 Childhood Education at Emporia State University. I have experience working in childcare and teaching roles, including serving as a teachers' assistant to afternoon kindergarten classes during my senior year of high school. 
 
 <a href="mailto:lina@mccamon.ong">Mail</a> ~ Instagram ~ Facebook
 
