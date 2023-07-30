@@ -8,7 +8,7 @@ layout: page
 
 ![](assets/images/lina-photo.jpg)
 
-Hello my name is Lina. I am currently a Tutor and Youth Development Professional for K-12 at Boys and Girls Club of Kansas City in Olathe. Earlier this year I earned my Associates of Science and Associates of Liberal Arts from JCCC having also completed over 90 hours from Emporia State University majoring in K-6 Childhood Education. My goal is to become a PreK-3 teacher in a diverse student setting. Not only have I worked full-time in childcare and teaching roles, but during my senior year of high school I served eight hours per week as a teachers' assistant to a private school's afternoon kindergarten classes. 
+I am currently a Tutor and Youth Development Professional at Boys and Girls Club of Kansas City in Olathe. Earlier this year I earned my Associates of Sciences and Associates of Liberal Arts from JCCC, also with over 90 hours completed in K-6 Childhood Education at Emporia State University. I have experience working in childcare and teaching roles, including serving as a teachers' assistant to afternoon kindergarten classes during my senior year of high school. 
 
 <a href="mailto:lina@mccamon.ong">Mail</a> ~ Instagram ~ Facebook
 
