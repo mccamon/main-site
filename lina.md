@@ -17,7 +17,7 @@ Hello my name is Lina. I am currently a Tutor and Youth Development Professional
 ## Boys & Girls Club of Kansas City, Olathe Unit
 ### Tutor and Youth Development Professional - K-12  [June 2021 to Present]
 - Lesson planning for K-8 after-school students.
-- Supervision and daily oversite of two classrooms with 24 students.
+- Supervision and daily oversight of two classrooms with 24 students.
 - Plan and conduct educational and recreational programs.
 - Help youth with homework and tutor, run games, and drop-in activities.
 - One-on-one tutoring of ESL reading students.
@@ -32,7 +32,7 @@ Hello my name is Lina. I am currently a Tutor and Youth Development Professional
 - Prepped projects and assignments for students.
 - Rotated between several classrooms as needed.
 
-## Lifetime Fitness, Childrens’ Center 
+## Lifetime Fitness, Child Center 
 ### Childcare Provider [May 2017 to August 2019]
 
 - Part-time afternoons and summer role at upscale fitness center
@@ -44,7 +44,7 @@ Hello my name is Lina. I am currently a Tutor and Youth Development Professional
 
 - Associate of Sciences, JCCC, 2023
 - Associates of Liberal Arts, JCCC, 2023
-- Emporia State University, 90 hours credit and studey of Early Childhood Education program
+- Emporia State University, 90 hours credit and study of Early Childhood Education program
 - Heritage Christian Academy, High School Diploma, 2019
 - Regina Reynolds Collegiate Youth Scholarship, 2019
 
