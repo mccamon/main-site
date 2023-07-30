@@ -18,6 +18,6 @@ My professional career began as the first personal computers were finding their 
 
 From his influence on mainstream entertainment (music, Disney, Pixar), and products like the Macintosh, iPod and now the iPhone, Steve Jobs became a icon that defined how my generation imagines, creates, communicates, collects, and shares it’s life with others and in that, in some ways how we value it. For many of us who worked in the technology industry, we didn’t want be like Steve Jobs, we wanted to be Steve Jobs.
 
-I only had one uneventful three minute conversation with Steve Jobs back in 2003 and thanks to my mother I was drug to the LA Forum as a preteen and saw the King in concert. Both were flawed men. They left us in two absurdly different ways, but while they were here they bent the universe in a new direction. And like Elvis, Steve Jobs will ultimately be remembered as the first to leave the generation he defined.
+I only had one uneventful three minute conversation with Steve Jobs back in 2003 and thanks to my mother I was dragged to the LA Forum as a preteen and saw the King in concert. Both were flawed men. They left us in two absurdly different ways, but while they were here they bent the universe in a new direction. And like Elvis, Steve Jobs will ultimately be remembered as the first to leave the generation he defined.
 
 Was the journey the reward? Funny, only they now know.
