@@ -44,7 +44,7 @@ Hello my name is Lina. I am currently a Tutor and Youth Development Professional
 
 - Associate of Sciences, JCCC, 2023
 - Associates of Liberal Arts, JCCC, 2023
-- Emporia State University, 90 hours credit and study of Early Childhood Education program
+- Emporia State University, 90 credit hours in the K-6 Education program
 - Heritage Christian Academy, High School Diploma, 2019
 - Regina Reynolds Collegiate Youth Scholarship, 2019
 
