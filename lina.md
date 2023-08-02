@@ -15,7 +15,7 @@ I am currently a Tutor and Youth Development Professional at Boys and Girls Club
 ***
 
 ## Boys & Girls Club of Kansas City, Olathe Unit
-### Tutor and Youth Development Professional - K-12  [June 2021 to Present]
+### Tutor and Youth Development Professional - K-12  [November 2020 to Present]
 - Lesson planning for K-8 after-school students.
 - Supervision and daily oversight of two classrooms with 24 students.
 - Plan and conduct educational and recreational programs.
