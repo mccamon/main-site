@@ -258,5 +258,6 @@ A system and method for switching between radio systems of a wireless device. Th
 ## Education
 - Associate of Arts, Math & C.S., Wichita State University
 - Bachelor History, University of Kansas
+- <a href="https://nfc-forum.org/learn/resources/2022-abi-usage-and-adoption-study/?utm-campaign=Hello">clickme</a>
 
 <span style="font-size: .8em"><a href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">Edit</a></span>
