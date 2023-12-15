@@ -259,4 +259,5 @@ A system and method for switching between radio systems of a wireless device. Th
 - Associate of Arts, Math & C.S., Wichita State University
 - Bachelor History, University of Kansas
 
+<a href="https://nfc-forum.org/learn/resources/wireless-charging-for-product-managers/?utm_campaign=testing&utm_source=partner&utm_medium=download_resource&utm_content=20231214mm">Test UTM</a>
 <span style="font-size: .8em"><a href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">Edit</a></span>
