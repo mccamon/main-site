@@ -8,11 +8,20 @@ layout: page
 
 ![](assets/images/lina-photo.jpg)
 
-I am currently a Tutor and Youth Development Professional at Boys and Girls Club of Kansas City in Olathe. Earlier this year I earned my Associates of Sciences and Associates of Liberal Arts from JCCC, and have also completed 90 hours in K-6 Childhood Education at Emporia State University. I have experience working in childcare and teaching roles, including serving as a teachers' assistant to afternoon kindergarten classes during my senior year of high school. 
+I am currently a lead teacher at Small Beginnings Montessori in Overland Park. Recently, I completed my Associate of Sciences and Associate of Liberal Arts from JCCC, and have also completed 90 hours in K-6 Childhood Education at Emporia State University. I have experience working in childcare and teaching roles, including serving as a teacher’s assistant to afternoon kindergarten classes during my senior year of high school.
 
 <a href="mailto:lina@mccamon.ong">Mail</a> ~ Instagram ~ Facebook
 
 ***
+
+## Small Beginnings Montessori, Overland Park, KS
+### Lead Teacher [August 2023-Present] 
+- Supervise and monitor children between the ages of 3 months to 5 years old.
+- Plan and implement age-appropriate lessons and activities. 
+- Communicate with parents, providing updates and concerns about their child.
+- Manage and resolve conflicts between students.
+- Track and report student progress to leadership and parents.
+- Assist with the daily routines.
 
 ## Boys & Girls Club of Kansas City, Olathe Unit
 ### Tutor and Youth Development Professional - K-12  [November 2020 to Present]
