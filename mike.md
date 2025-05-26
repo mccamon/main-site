@@ -19,7 +19,7 @@ When asked, I like to tell people I never climbed the career ladder, I took the 
 - Advocated social and institutional change as candidate for U.S. Congress
 - Serial disruptor in the technology and non-profit sectors
 
-For the past several years I have been semi-retired, have run for U.S. Congress, and now work for Virtual Management as a hosted leader of trade groups like the NFC Forum, IOWN Global Forum, HAPS Alliance, and OWASP Foundation. Before that, I was on the leadership team that launched Matt Damon's Water.org, directing grassroots advocacy and fundraising efforts while closely collaborating with Facebook, Twitter, Instagram, and YouTube, building innovative ways to connect with supporters. My role was to exploit the intersection of marketing and technology to help end the water crisis.
+For the past several years I have been semi-retired, have run for U.S. Congress, and now work for Virtual as a hosted executive of groups like the NFC Forum, IOWN Global Forum, HAPS Alliance, and OWASP Foundation. Before that, I was on the leadership team that launched Matt Damon's Water.org, directing grassroots advocacy and fundraising efforts while closely collaborating with Facebook, Twitter, Instagram, and YouTube, building innovative ways to connect with supporters. My role was to exploit the intersection of marketing and technology to help end the water crisis.
 
 Over my thirty year career in technology and nonprofit I have directed teams that have defined, product managed, launched, and marketed dozens of new products around the globe. I have worked in an internet startup (before there were such things), for the Fortune 50, and on international assignments all spanning the public, private, and non-profit sectors.
 
@@ -36,24 +36,22 @@ Virtual enables associations, standards organizations, consortia, startup advoca
 
 ### Executive Director, [NFC Forum (Client)](https://nfc-forum.org)
 - Develop, manage, and execute Strategic Goals and Objectives of the Forum
-- Facilitate redesign of Certification Program business model
-- Lead trademark work including design of updated corporate and wayfinder tap mark
-- Lead annual consumer adoption and awareness studies.
+- Facilitate redesign of Membership model, Specification launch process, and Certification Program business model.
+- Led development and delivery of Technology Roadmap that included innovations like extended operating volume and circularity features.
 - Ambassador of the Forum to members, partners, and press.
 
 ### Interim Executive Director, [OWASP Foundation (Client)](https://owasp.org)
-- Created and implemented organizational wide Operating and Project Planning
-- Led migration and launch of 25M annual visitor website to Github Pages
+- Organization comprised of nearly 400 open source projects and over 300 local chapters of which 80% are non-English speaking countries.
+- Created and implemented organization’s transitional Operating, Project, Membership, Engagement, and Marketing Plans for growth.
+- Led migration and launch of 25M annual visitor website to Github Pages.
 
 ---
 
 ## Candidate for U.S. Congress Kansas 3rd District
 February 2018 to August 2018
 
-- Finished 4th place in field of six Democratic Primary.
 - Innovative use of digital marketing led to highest donor ROI of all candidates in field.
-- Wrote and self-produced weekly video blog featuring stories and people in District.
-- Hyperactive social media advocate of #aroundTheThird including Facebook Live.
+- Finished 4th place in field of six Democratic Primary.
 - Hosted over 210 meetings with local leaders in the District.
 
 ---
@@ -70,7 +68,7 @@ Best known for its personal backup solution, SpiderOak advocates for and builds 
 - Managed the design, visual identity, and user experience of the corporate brand, marketing executions, and product design.
 - Frequent thought leadership through writing, press/analyst briefings, and speaking engagements.
 - Delivered double digit growth while launching new products in new problem categories.
-- Instrumental in closing $4.25M Series B Round institutional and private equity funding.
+- Instrumental in closing Series B Round institutional and private equity funding.
 
 ---
 
